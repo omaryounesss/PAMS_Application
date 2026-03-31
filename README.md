@@ -1,5 +1,7 @@
 # Paragon Apartment Management System (PAMS)
 
+PLEASE FOLLOW RUN_INSTRUCRIONS.txt
+
 Desktop application for `UFCF8S-30-2` built with `Tkinter + MySQL`, designed to align with the assessment brief.
 
 ## Features Implemented
