@@ -1,0 +1,5 @@
+Required additional packages:
+- mysql-connector-python>=9.0.0
+
+Install command:
+pip install -r requirements.txt

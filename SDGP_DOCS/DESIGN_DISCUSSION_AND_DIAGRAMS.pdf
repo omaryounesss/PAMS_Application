@@ -1,0 +1,676 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 13 0 R /F2 14 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 4451 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 533.00 842.00 62.00 re
+f
+Q
+BT /F2 20 Tf 1.000 1.000 1.000 rg 1 0 0 1 32.00 557.00 Tm (Design Discussion and Diagrams) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 32.00 541.00 Tm (Paragon Apartment Management System) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 758.00 541.00 Tm (Page 1) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.7 w
+32.00 478.00 778.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 40.00 485.00 Tm (1. Design Overview) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 466.00 Tm 13 TL
+(This section discusses the principal design decisions made during the development of the Paragon) Tj
+T*
+(Apartment Management System and explains how those decisions support the functional and non-functional) Tj
+T*
+(requirements identified in the project. The design approach emphasised clarity of structure, separation) Tj
+T*
+(of concerns, role-based access control, and support for multi-city apartment operations.) Tj
+ET
+q
+0.960 0.980 1.000 rg
+0.720 0.780 0.840 RG
+0.7 w
+32.00 170.00 778.00 230.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 40.00 384.00 Tm (2. System Architecture Diagram) Tj ET
+q
+0.930 0.980 0.970 rg
+0.720 0.780 0.840 RG
+0.7 w
+58.00 310.00 150.00 54.00 re
+B
+Q
+BT /F2 11 Tf 0.080 0.100 0.140 rg 1 0 0 1 112.10 342.00 Tm (User Roles) Tj ET
+BT /F1 9 Tf 0.290 0.350 0.410 rg 1 0 0 1 95.38 328.00 Tm (Admin / Staff / Tenant) Tj ET
+q
+0.940 0.960 1.000 rg
+0.720 0.780 0.840 RG
+0.7 w
+248.00 310.00 150.00 54.00 re
+B
+Q
+BT /F2 11 Tf 0.080 0.100 0.140 rg 1 0 0 1 287.47 342.00 Tm (Tkinter Interface) Tj ET
+BT /F1 9 Tf 0.290 0.350 0.410 rg 1 0 0 1 283.67 328.00 Tm (Dashboards, Tabs, Forms) Tj ET
+q
+0.930 0.980 0.970 rg
+0.720 0.780 0.840 RG
+0.7 w
+438.00 310.00 150.00 54.00 re
+B
+Q
+BT /F2 11 Tf 0.080 0.100 0.140 rg 1 0 0 1 485.83 342.00 Tm (Service Layer) Tj ET
+BT /F1 9 Tf 0.290 0.350 0.410 rg 1 0 0 1 466.83 328.00 Tm (Validation + Business Rules) Tj ET
+q
+1.000 0.970 0.920 rg
+0.720 0.780 0.840 RG
+0.7 w
+628.00 310.00 150.00 54.00 re
+B
+Q
+BT /F2 11 Tf 0.080 0.100 0.140 rg 1 0 0 1 673.74 342.00 Tm (MySQL Database) Tj ET
+BT /F1 9 Tf 0.290 0.350 0.410 rg 1 0 0 1 656.83 328.00 Tm (Persistent Operational Data) Tj ET
+q
+0.950 0.940 1.000 rg
+0.720 0.780 0.840 RG
+0.7 w
+408.00 222.00 190.00 48.00 re
+B
+Q
+BT /F2 10.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 451.13 250.00 Tm (RBAC and Security Controls) Tj ET
+BT /F1 8.5 Tf 0.290 0.350 0.410 rg 1 0 0 1 438.40 237.00 Tm (Authentication, permissions, audit logic) Tj ET
+q 0.230 0.510 0.960 RG 1.00 w 208.00 337.00 m 248.00 337.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 248.00 337.00 m 242.00 341.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 248.00 337.00 m 242.00 333.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 398.00 337.00 m 438.00 337.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 438.00 337.00 m 432.00 341.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 438.00 337.00 m 432.00 333.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 588.00 337.00 m 628.00 337.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 628.00 337.00 m 622.00 341.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 628.00 337.00 m 622.00 333.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 513.00 310.00 m 513.00 270.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 513.00 270.00 m 517.00 276.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 513.00 270.00 m 509.00 276.00 l S Q
+BT /F1 8.8 Tf 0.290 0.350 0.410 rg 1 0 0 1 56.00 186.00 Tm (Figure 1. High-level layered architecture of the Paragon Apartment Management System.) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.7 w
+32.00 130.00 778.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 40.00 137.00 Tm (3. Architectural Rationale) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 42.00 118.00 Tm 13 TL
+(? A layered design was adopted to separate presentation, business logic, security control, and) Tj
+T*
+(persistent data management.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 42.00 86.00 Tm 13 TL
+(? The Tkinter interface was used to present role-aware screens for staff, managers,) Tj
+T*
+(administrators, and tenants.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 42.00 54.00 Tm 13 TL
+(? The service layer was designed to centralise validation, business rules, and transaction-) Tj
+T*
+(oriented operations.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 42.00 22.00 Tm 13 TL
+(? The database layer was modelled relationally to preserve integrity across cities, users,) Tj
+T*
+(apartments, tenants, leases, invoices, payments, complaints, and maintenance requests.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 13 0 R /F2 14 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 5892 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 533.00 842.00 62.00 re
+f
+Q
+BT /F2 20 Tf 1.000 1.000 1.000 rg 1 0 0 1 32.00 557.00 Tm (Design Discussion and Diagrams) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 32.00 541.00 Tm (Paragon Apartment Management System) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 758.00 541.00 Tm (Page 2) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.7 w
+32.00 478.00 778.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 40.00 485.00 Tm (4. Core Data Model Discussion) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 466.00 Tm 13 TL
+(The database design was based on a relational approach in order to maintain consistency between) Tj
+T*
+(operational entities. Particular attention was given to the relationships between users, tenants,) Tj
+T*
+(apartments, leases, invoices, payments, complaints, and maintenance requests, because these entities) Tj
+T*
+(form the core of the business workflows implemented in the system.) Tj
+ET
+q
+0.960 0.980 1.000 rg
+0.720 0.780 0.840 RG
+0.7 w
+32.00 180.00 778.00 220.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 40.00 384.00 Tm (5. Simplified Entity Relationship Diagram) Tj ET
+q
+0.930 0.980 0.970 rg
+0.720 0.780 0.840 RG
+0.7 w
+58.00 328.00 90.00 42.00 re
+B
+Q
+BT /F2 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 95.40 346.00 Tm (City) Tj ET
+q
+0.940 0.960 1.000 rg
+0.720 0.780 0.840 RG
+0.7 w
+172.00 328.00 90.00 42.00 re
+B
+Q
+BT /F2 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 209.40 346.00 Tm (User) Tj ET
+q
+0.930 0.980 0.970 rg
+0.720 0.780 0.840 RG
+0.7 w
+287.00 328.00 90.00 42.00 re
+B
+Q
+BT /F2 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 320.60 346.00 Tm (Tenant) Tj ET
+q
+0.930 0.980 0.970 rg
+0.720 0.780 0.840 RG
+0.7 w
+402.00 328.00 100.00 42.00 re
+B
+Q
+BT /F2 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 434.90 346.00 Tm (Apartment) Tj ET
+q
+0.930 0.980 0.970 rg
+0.720 0.780 0.840 RG
+0.7 w
+527.00 328.00 90.00 42.00 re
+B
+Q
+BT /F2 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 562.50 346.00 Tm (Lease) Tj ET
+q
+0.940 0.960 1.000 rg
+0.720 0.780 0.840 RG
+0.7 w
+642.00 328.00 90.00 42.00 re
+B
+Q
+BT /F2 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 673.70 346.00 Tm (Invoice) Tj ET
+q
+0.930 0.980 0.970 rg
+0.720 0.780 0.840 RG
+0.7 w
+642.00 254.00 90.00 42.00 re
+B
+Q
+BT /F2 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 673.70 272.00 Tm (Payment) Tj ET
+q
+0.930 0.980 0.970 rg
+0.720 0.780 0.840 RG
+0.7 w
+287.00 254.00 100.00 42.00 re
+B
+Q
+BT /F2 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 319.90 272.00 Tm (Complaint) Tj ET
+q
+0.930 0.980 0.970 rg
+0.720 0.780 0.840 RG
+0.7 w
+417.00 254.00 110.00 42.00 re
+B
+Q
+BT /F2 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 453.00 272.00 Tm (Maint. Req) Tj ET
+q 0.230 0.510 0.960 RG 1.00 w 148.00 349.00 m 172.00 349.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 172.00 349.00 m 166.00 353.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 172.00 349.00 m 166.00 345.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 262.00 349.00 m 287.00 349.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 287.00 349.00 m 281.00 353.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 287.00 349.00 m 281.00 345.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 377.00 349.00 m 402.00 349.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 402.00 349.00 m 396.00 353.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 402.00 349.00 m 396.00 345.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 502.00 349.00 m 527.00 349.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 527.00 349.00 m 521.00 353.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 527.00 349.00 m 521.00 345.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 617.00 349.00 m 642.00 349.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 642.00 349.00 m 636.00 353.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 642.00 349.00 m 636.00 345.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 687.00 328.00 m 687.00 296.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 687.00 296.00 m 691.00 302.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 687.00 296.00 m 683.00 302.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 332.00 328.00 m 332.00 296.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 332.00 296.00 m 336.00 302.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 332.00 296.00 m 328.00 302.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 452.00 328.00 m 472.00 296.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 472.00 296.00 m 476.00 302.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 472.00 296.00 m 468.00 302.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 332.00 275.00 m 417.00 275.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 417.00 275.00 m 411.00 279.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 417.00 275.00 m 411.00 271.00 l S Q
+BT /F1 8.8 Tf 0.290 0.350 0.410 rg 1 0 0 1 56.00 196.00 Tm (Figure 2. Simplified relational structure showing the main operational entities and their links.) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.7 w
+32.00 142.00 778.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 40.00 149.00 Tm (6. Entity Design Rationale) Tj ET
+q
+0.850 0.900 0.960 rg
+0.720 0.780 0.840 RG
+0.7 w
+32.00 106.00 778.00 24.00 re
+B
+Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 114.00 Tm (Entity) Tj ET
+q 0.720 0.780 0.840 RG 0.80 w 202.00 106.00 m 202.00 130.00 l S Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 206.00 114.00 Tm (Design Purpose) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.7 w
+32.00 76.00 778.00 30.00 re
+B
+Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 92.00 Tm (City) Tj ET
+q 0.720 0.780 0.840 RG 0.80 w 202.00 76.00 m 202.00 106.00 l S Q
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 206.00 92.00 Tm (Represents each operating location and provides the basis for scoped records) Tj ET
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 206.00 81.00 Tm (and reporting.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.7 w
+32.00 46.00 778.00 30.00 re
+B
+Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 62.00 Tm (User) Tj ET
+q 0.720 0.780 0.840 RG 0.80 w 202.00 46.00 m 202.00 76.00 l S Q
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 206.00 62.00 Tm (Stores authenticated system accounts for staff, managers, administrators,) Tj ET
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 206.00 51.00 Tm (and tenants.) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 13 0 R /F2 14 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2801 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 533.00 842.00 62.00 re
+f
+Q
+BT /F2 20 Tf 1.000 1.000 1.000 rg 1 0 0 1 32.00 557.00 Tm (Design Discussion and Diagrams) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 32.00 541.00 Tm (Paragon Apartment Management System) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 758.00 541.00 Tm (Page 3) Tj ET
+q
+0.850 0.900 0.960 rg
+0.720 0.780 0.840 RG
+0.7 w
+32.00 476.00 778.00 24.00 re
+B
+Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 484.00 Tm (Entity) Tj ET
+q 0.720 0.780 0.840 RG 0.80 w 202.00 476.00 m 202.00 500.00 l S Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 206.00 484.00 Tm (Design Purpose) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.7 w
+32.00 452.00 778.00 24.00 re
+B
+Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 462.00 Tm (Tenant) Tj ET
+q 0.720 0.780 0.840 RG 0.80 w 202.00 452.00 m 202.00 476.00 l S Q
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 206.00 462.00 Tm (Stores tenant personal details and housing requirements.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.7 w
+32.00 428.00 778.00 24.00 re
+B
+Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 438.00 Tm (Apartment) Tj ET
+q 0.720 0.780 0.840 RG 0.80 w 202.00 428.00 m 202.00 452.00 l S Q
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 206.00 438.00 Tm (Stores apartment details, rental information, and occupancy status.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.7 w
+32.00 398.00 778.00 30.00 re
+B
+Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 414.00 Tm (Lease) Tj ET
+q 0.720 0.780 0.840 RG 0.80 w 202.00 398.00 m 202.00 428.00 l S Q
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 206.00 414.00 Tm (Links a tenant to an apartment and stores tenancy dates, deposit, rent, and) Tj ET
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 206.00 403.00 Tm (early leave data.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.7 w
+32.00 368.00 778.00 30.00 re
+B
+Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 384.00 Tm (Invoice and Payment) Tj ET
+q 0.720 0.780 0.840 RG 0.80 w 202.00 368.00 m 202.00 398.00 l S Q
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 206.00 384.00 Tm (Support rent billing, payment recording, late status handling, and tenant-) Tj ET
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 206.00 373.00 Tm (facing finance views.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.7 w
+32.00 338.00 778.00 30.00 re
+B
+Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 354.00 Tm (Complaint and) Tj ET
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 343.00 Tm (Maintenance Request) Tj ET
+q 0.720 0.780 0.840 RG 0.80 w 202.00 338.00 m 202.00 368.00 l S Q
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 206.00 354.00 Tm (Support issue logging, service response, scheduling, costing, and progress) Tj ET
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 206.00 343.00 Tm (tracking.) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 13 0 R /F2 14 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 5169 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 533.00 842.00 62.00 re
+f
+Q
+BT /F2 20 Tf 1.000 1.000 1.000 rg 1 0 0 1 32.00 557.00 Tm (Design Discussion and Diagrams) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 32.00 541.00 Tm (Paragon Apartment Management System) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 758.00 541.00 Tm (Page 4) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.7 w
+32.00 478.00 778.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 40.00 485.00 Tm (7. User Interface and Interaction Design) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 466.00 Tm 13 TL
+(The interface design aimed to support efficient operational workflows while remaining suitable for a) Tj
+T*
+(live academic demonstration. A tab-based structure was selected to organise modules clearly, while) Tj
+T*
+(summary cards, structured forms, tables, and restricted role-specific views were used to improve clarity) Tj
+T*
+(and usability.) Tj
+ET
+q
+0.960 0.980 1.000 rg
+0.720 0.780 0.840 RG
+0.7 w
+32.00 200.00 778.00 200.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 40.00 384.00 Tm (8. Interface Interaction Diagram) Tj ET
+q
+0.940 0.960 1.000 rg
+0.720 0.780 0.840 RG
+0.7 w
+72.00 320.00 120.00 44.00 re
+B
+Q
+BT /F2 9.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 109.66 338.00 Tm (Login Screen) Tj ET
+q
+1.000 0.970 0.920 rg
+0.720 0.780 0.840 RG
+0.7 w
+232.00 320.00 110.00 44.00 re
+B
+Q
+BT /F2 9.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 268.38 338.00 Tm (Role Check) Tj ET
+q
+0.930 0.980 0.970 rg
+0.720 0.780 0.840 RG
+0.7 w
+382.00 346.00 130.00 44.00 re
+B
+Q
+BT /F2 9.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 419.07 364.00 Tm (Staff Dashboard) Tj ET
+q
+0.930 0.980 0.970 rg
+0.720 0.780 0.840 RG
+0.7 w
+382.00 272.00 130.00 44.00 re
+B
+Q
+BT /F2 9.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 422.79 290.00 Tm (Tenant Portal) Tj ET
+q
+0.940 0.960 1.000 rg
+0.720 0.780 0.840 RG
+0.7 w
+572.00 346.00 180.00 44.00 re
+B
+Q
+BT /F2 9.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 615.45 364.00 Tm (Reports / Actions / Lists) Tj ET
+q
+0.940 0.960 1.000 rg
+0.720 0.780 0.840 RG
+0.7 w
+572.00 272.00 180.00 44.00 re
+B
+Q
+BT /F2 9.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 611.73 290.00 Tm (Payments / Alerts / Repairs) Tj ET
+q 0.230 0.510 0.960 RG 1.00 w 192.00 342.00 m 232.00 342.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 232.00 342.00 m 226.00 346.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 232.00 342.00 m 226.00 338.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 342.00 342.00 m 382.00 364.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 382.00 364.00 m 376.00 368.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 382.00 364.00 m 376.00 360.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 342.00 342.00 m 382.00 290.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 382.00 290.00 m 386.00 296.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 382.00 290.00 m 378.00 296.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 512.00 364.00 m 572.00 364.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 572.00 364.00 m 566.00 368.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 572.00 364.00 m 566.00 360.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 512.00 290.00 m 572.00 290.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 572.00 290.00 m 566.00 294.00 l S Q
+q 0.230 0.510 0.960 RG 1.00 w 572.00 290.00 m 566.00 286.00 l S Q
+BT /F1 8.8 Tf 0.290 0.350 0.410 rg 1 0 0 1 56.00 216.00 Tm (Figure 3. Simplified interaction flow from authentication to role-specific interfaces.) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.7 w
+32.00 164.00 778.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 40.00 171.00 Tm (9. Design Decision Summary) Tj ET
+q
+0.850 0.900 0.960 rg
+0.720 0.780 0.840 RG
+0.7 w
+32.00 128.00 778.00 24.00 re
+B
+Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 136.00 Tm (Design Decision) Tj ET
+q 0.720 0.780 0.840 RG 0.80 w 252.00 128.00 m 252.00 152.00 l S Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 256.00 136.00 Tm (Justification) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.7 w
+32.00 98.00 778.00 30.00 re
+B
+Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 114.00 Tm (Layered architecture) Tj ET
+q 0.720 0.780 0.840 RG 0.80 w 252.00 98.00 m 252.00 128.00 l S Q
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 256.00 114.00 Tm (Improves maintainability by separating interface logic from business) Tj ET
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 256.00 103.00 Tm (rules and data access.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.7 w
+32.00 68.00 778.00 30.00 re
+B
+Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 84.00 Tm (Role-based design) Tj ET
+q 0.720 0.780 0.840 RG 0.80 w 252.00 68.00 m 252.00 98.00 l S Q
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 256.00 84.00 Tm (Supports security and ensures that each user sees only the functions) Tj ET
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 256.00 73.00 Tm (relevant to their responsibilities.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.7 w
+32.00 38.00 778.00 30.00 re
+B
+Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 54.00 Tm (Relational database model) Tj ET
+q 0.720 0.780 0.840 RG 0.80 w 252.00 38.00 m 252.00 68.00 l S Q
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 256.00 54.00 Tm (Supports data consistency, integrity, and clear relationships between) Tj ET
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 256.00 43.00 Tm (operational records.) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 13 0 R /F2 14 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 3294 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 533.00 842.00 62.00 re
+f
+Q
+BT /F2 20 Tf 1.000 1.000 1.000 rg 1 0 0 1 32.00 557.00 Tm (Design Discussion and Diagrams) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 32.00 541.00 Tm (Paragon Apartment Management System) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 758.00 541.00 Tm (Page 5) Tj ET
+q
+0.850 0.900 0.960 rg
+0.720 0.780 0.840 RG
+0.7 w
+32.00 476.00 778.00 24.00 re
+B
+Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 484.00 Tm (Design Decision) Tj ET
+q 0.720 0.780 0.840 RG 0.80 w 252.00 476.00 m 252.00 500.00 l S Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 256.00 484.00 Tm (Justification) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.7 w
+32.00 446.00 778.00 30.00 re
+B
+Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 462.00 Tm (Tabbed desktop interface) Tj ET
+q 0.720 0.780 0.840 RG 0.80 w 252.00 446.00 m 252.00 476.00 l S Q
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 256.00 462.00 Tm (Provides a straightforward and structured navigation model suitable for) Tj ET
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 256.00 451.00 Tm (a desktop management system.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.7 w
+32.00 416.00 778.00 30.00 re
+B
+Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 432.00 Tm (Expanded tenant portal) Tj ET
+q 0.720 0.780 0.840 RG 0.80 w 252.00 416.00 m 252.00 446.00 l S Q
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 256.00 432.00 Tm (Addresses the SDGP extension by giving tenants controlled access to) Tj ET
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 256.00 421.00 Tm (payments, alerts, complaints, repairs, and charts.) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.7 w
+32.00 384.00 778.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 40.00 391.00 Tm (10. Interface Design Considerations) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 42.00 372.00 Tm 13 TL
+(? The login screen provides a controlled entry point for all user roles.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 42.00 353.00 Tm 13 TL
+(? Staff-facing modules are grouped into tabs to support frequent operational tasks without) Tj
+T*
+(unnecessary screen switching.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 42.00 321.00 Tm 13 TL
+(? Summary cards provide an immediate overview of occupancy, tenants, and financial risk) Tj
+T*
+(indicators.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 42.00 289.00 Tm 13 TL
+(? The tenant portal was designed as a restricted environment focused on self-service tasks and) Tj
+T*
+(readability.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 42.00 257.00 Tm 13 TL
+(? Colour, spacing, and visual grouping were refined to improve presentation quality for) Tj
+T*
+(testing and demonstration.) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.7 w
+32.00 203.00 778.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 40.00 210.00 Tm (11. Summary) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 191.00 Tm 13 TL
+(Overall, the design of the Paragon Apartment Management System was guided by the need to balance) Tj
+T*
+(operational functionality, security, maintainability, and demonstration quality. The resulting design) Tj
+T*
+(supports both the original apartment management case study and the extended tenant-focused features) Tj
+T*
+(required by the SDGP brief.) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+14 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000146 00000 n 
+0000000284 00000 n 
+0000004786 00000 n 
+0000004924 00000 n 
+0000010867 00000 n 
+0000011005 00000 n 
+0000013857 00000 n 
+0000013996 00000 n 
+0000019217 00000 n 
+0000019357 00000 n 
+0000022703 00000 n 
+0000022774 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+22850
+%%EOF

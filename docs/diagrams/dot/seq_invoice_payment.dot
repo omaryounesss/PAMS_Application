@@ -1,0 +1,20 @@
+digraph SeqBilling {
+  graph [rankdir=LR, bgcolor="white", fontname="Helvetica", fontsize=12, splines=true, nodesep=0.8, ranksep=0.7];
+  node [shape=box, style="rounded,filled", fillcolor="#f8fafc", color="#64748b", fontname="Helvetica", fontsize=10];
+  edge [fontname="Helvetica", fontsize=9, color="#1e293b", arrowsize=0.8];
+
+  FM [label="FinanceManager"];
+  UI [label="UI"];
+  S [label="Service"];
+  DB [label="Database"];
+
+  FM -> UI [label="1. Create invoice"];
+  UI -> S [label="2. create_invoice(data)"];
+  S -> DB [label="3. INSERT invoice"];
+  S -> UI [label="4. Invoice created"];
+  FM -> UI [label="5. Record payment"];
+  UI -> S [label="6. record_payment(data)"];
+  S -> DB [label="7. INSERT payment"];
+  S -> DB [label="8. UPDATE invoice status"];
+  S -> UI [label="9. Payment recorded"];
+}

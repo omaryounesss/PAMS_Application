@@ -1,0 +1,489 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 8754 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 533.00 842.00 62.00 re
+f
+Q
+BT /F2 20 Tf 1.000 1.000 1.000 rg 1 0 0 1 30.00 557.00 Tm (Project Plan) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 30.00 541.00 Tm (Paragon Apartment Management System) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 758.00 541.00 Tm (Page 1) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+30.00 478.00 782.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 485.00 Tm (1. Planning Overview) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 30.00 466.00 Tm 13 TL
+(This project plan outlines the intended structure, sequencing, and control of work for the development of) Tj
+T*
+(the Paragon Apartment Management System. The plan reflects a phased Agile approach in which analysis,) Tj
+T*
+(design, implementation, testing, and final preparation activities were organised into manageable weekly) Tj
+T*
+(increments.) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+30.00 378.00 782.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 385.00 Tm (2. Planned Weekly Delivery Structure) Tj ET
+q
+0.850 0.900 0.960 rg
+0.720 0.780 0.840 RG
+0.6 w
+30.00 342.00 782.00 24.00 re
+B
+Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 34.00 350.00 Tm (Week) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 88.00 342.00 m 88.00 366.00 l S Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 92.00 350.00 Tm (Phase / Focus) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 238.00 342.00 m 238.00 366.00 l S Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 350.00 Tm (Planned Activities) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 568.00 342.00 m 568.00 366.00 l S Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 350.00 Tm (Expected Output) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+30.00 301.00 782.00 41.00 re
+B
+Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 34.00 328.00 Tm (Week 1) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 88.00 301.00 m 88.00 342.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 92.00 328.00 Tm (Project Initiation and) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 92.00 317.00 Tm (Brief Review) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 238.00 301.00 m 238.00 342.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 328.00 Tm (Review module brief, clarify deliverables,) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 317.00 Tm (identify group expectations, define initial) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 306.00 Tm (scope.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 568.00 301.00 m 568.00 342.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 328.00 Tm (Shared understanding of) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 317.00 Tm (requirements and assessment) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 306.00 Tm (outputs.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+30.00 260.00 782.00 41.00 re
+B
+Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 34.00 287.00 Tm (Week 2) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 88.00 260.00 m 88.00 301.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 92.00 287.00 Tm (Requirements Analysis) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 238.00 260.00 m 238.00 301.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 287.00 Tm (Analyse the case study, identify functional and) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 276.00 Tm (non-functional requirements, define actors and) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 265.00 Tm (high-level use cases.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 568.00 260.00 m 568.00 301.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 287.00 Tm (Initial requirements set and) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 276.00 Tm (system scope established.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+30.00 219.00 782.00 41.00 re
+B
+Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 34.00 246.00 Tm (Week 3) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 88.00 219.00 m 88.00 260.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 92.00 246.00 Tm (System Design Planning) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 238.00 219.00 m 238.00 260.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 246.00 Tm (Prepare UML planning, identify major entities,) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 235.00 Tm (define relationships, and outline architectural) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 224.00 Tm (structure.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 568.00 219.00 m 568.00 260.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 246.00 Tm (Initial design direction for) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 235.00 Tm (database, logic, and) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 224.00 Tm (interface.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+30.00 178.00 782.00 41.00 re
+B
+Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 34.00 205.00 Tm (Week 4) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 88.00 178.00 m 88.00 219.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 92.00 205.00 Tm (Database and Security) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 92.00 194.00 Tm (Foundation) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 238.00 178.00 m 238.00 219.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 205.00 Tm (Develop relational schema, define access levels,) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 194.00 Tm (and implement authentication and role-based) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 183.00 Tm (access strategy.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 568.00 178.00 m 568.00 219.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 205.00 Tm (Database structure and) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 194.00 Tm (security model prepared.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+30.00 148.00 782.00 30.00 re
+B
+Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 34.00 164.00 Tm (Week 5) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 88.00 148.00 m 88.00 178.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 92.00 164.00 Tm (Core Module) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 92.00 153.00 Tm (Development I) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 238.00 148.00 m 238.00 178.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 164.00 Tm (Implement tenant and apartment management) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 153.00 Tm (features with validation and city scoping.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 568.00 148.00 m 568.00 178.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 164.00 Tm (First operational modules) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 153.00 Tm (completed.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+30.00 107.00 782.00 41.00 re
+B
+Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 34.00 134.00 Tm (Week 6) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 88.00 107.00 m 88.00 148.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 92.00 134.00 Tm (Core Module) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 92.00 123.00 Tm (Development II) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 238.00 107.00 m 238.00 148.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 134.00 Tm (Implement maintenance and billing workflows,) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 123.00 Tm (including invoices, payments, and status) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 112.00 Tm (handling.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 568.00 107.00 m 568.00 148.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 134.00 Tm (Operational financial and) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 123.00 Tm (maintenance workflows) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 112.00 Tm (completed.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+30.00 66.00 782.00 41.00 re
+B
+Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 34.00 93.00 Tm (Week 7) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 88.00 66.00 m 88.00 107.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 92.00 93.00 Tm (Reporting and) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 92.00 82.00 Tm (Management Features) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 238.00 66.00 m 238.00 107.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 93.00 Tm (Develop dashboard summaries, city filtering, and) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 82.00 Tm (management reports for occupancy, finance, and) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 71.00 Tm (maintenance.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 568.00 66.00 m 568.00 107.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 93.00 Tm (Management-level insight) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 82.00 Tm (features completed.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 9673 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 533.00 842.00 62.00 re
+f
+Q
+BT /F2 20 Tf 1.000 1.000 1.000 rg 1 0 0 1 30.00 557.00 Tm (Project Plan) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 30.00 541.00 Tm (Paragon Apartment Management System) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 758.00 541.00 Tm (Page 2) Tj ET
+q
+0.850 0.900 0.960 rg
+0.720 0.780 0.840 RG
+0.6 w
+30.00 476.00 782.00 24.00 re
+B
+Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 34.00 484.00 Tm (Week) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 88.00 476.00 m 88.00 500.00 l S Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 92.00 484.00 Tm (Phase / Focus) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 238.00 476.00 m 238.00 500.00 l S Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 484.00 Tm (Planned Activities) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 568.00 476.00 m 568.00 500.00 l S Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 484.00 Tm (Expected Output) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+30.00 435.00 782.00 41.00 re
+B
+Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 34.00 462.00 Tm (Week 8) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 88.00 435.00 m 88.00 476.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 92.00 462.00 Tm (Tenant Dashboard) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 92.00 451.00 Tm (Extension) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 238.00 435.00 m 238.00 476.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 462.00 Tm (Implement tenant portal functionality, including) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 451.00 Tm (payments, alerts, complaints, repairs, and) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 440.00 Tm (charts.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 568.00 435.00 m 568.00 476.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 462.00 Tm (SDGP extension features) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 451.00 Tm (completed.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+30.00 394.00 782.00 41.00 re
+B
+Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 34.00 421.00 Tm (Week 9) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 88.00 394.00 m 88.00 435.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 92.00 421.00 Tm (Seed Data and) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 92.00 410.00 Tm (Integration Review) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 238.00 394.00 m 238.00 435.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 421.00 Tm (Expand demonstration data, verify cross-role) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 410.00 Tm (flows, and resolve consistency issues between) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 399.00 Tm (modules.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 568.00 394.00 m 568.00 435.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 421.00 Tm (System made suitable for) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 410.00 Tm (testing and demonstration.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+30.00 353.00 782.00 41.00 re
+B
+Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 34.00 380.00 Tm (Week 10) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 88.00 353.00 m 88.00 394.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 92.00 380.00 Tm (Testing and Refinement) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 238.00 353.00 m 238.00 394.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 380.00 Tm (Undertake automated and manual testing, refine) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 369.00 Tm (interface presentation, and improve workflow) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 358.00 Tm (reliability.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 568.00 353.00 m 568.00 394.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 380.00 Tm (Evidence of system) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 369.00 Tm (correctness and improved) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 358.00 Tm (usability.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+30.00 312.00 782.00 41.00 re
+B
+Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 34.00 339.00 Tm (Week 11) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 88.00 312.00 m 88.00 353.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 92.00 339.00 Tm (Documentation and) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 92.00 328.00 Tm (Presentation) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 92.00 317.00 Tm (Preparation) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 238.00 312.00 m 238.00 353.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 339.00 Tm (Prepare report sections, contribution evidence,) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 328.00 Tm (methodology documentation, and presentation) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 317.00 Tm (material.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 568.00 312.00 m 568.00 353.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 339.00 Tm (Submission documents and) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 328.00 Tm (demo structure assembled.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+30.00 271.00 782.00 41.00 re
+B
+Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 34.00 298.00 Tm (Week 12) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 88.00 271.00 m 88.00 312.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 92.00 298.00 Tm (Final Quality) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 92.00 287.00 Tm (Assurance and) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 92.00 276.00 Tm (Submission Readiness) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 238.00 271.00 m 238.00 312.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 298.00 Tm (Review deliverables, confirm evidence, check) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 287.00 Tm (packaging, and prepare for final submission and) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 242.00 276.00 Tm (presentation.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 568.00 271.00 m 568.00 312.00 l S Q
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 298.00 Tm (Final submission package and) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 287.00 Tm (presentation readiness) Tj ET
+BT /F1 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 572.00 276.00 Tm (confirmed.) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+30.00 239.00 782.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 246.00 Tm (3. Key Milestones) Tj ET
+q
+0.850 0.900 0.960 rg
+0.720 0.780 0.840 RG
+0.6 w
+30.00 203.00 782.00 24.00 re
+B
+Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 34.00 211.00 Tm (Milestone) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 100.00 203.00 m 100.00 227.00 l S Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 104.00 211.00 Tm (Description) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 580.00 203.00 m 580.00 227.00 l S Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 584.00 211.00 Tm (Target Point) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+30.00 179.00 782.00 24.00 re
+B
+Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 34.00 189.00 Tm (M1) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 100.00 179.00 m 100.00 203.00 l S Q
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 104.00 189.00 Tm (Requirements and scope approved) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 580.00 179.00 m 580.00 203.00 l S Q
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 584.00 189.00 Tm (End of Week 2) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+30.00 155.00 782.00 24.00 re
+B
+Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 34.00 165.00 Tm (M2) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 100.00 155.00 m 100.00 179.00 l S Q
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 104.00 165.00 Tm (Core database and security foundation completed) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 580.00 155.00 m 580.00 179.00 l S Q
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 584.00 165.00 Tm (End of Week 4) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+30.00 131.00 782.00 24.00 re
+B
+Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 34.00 141.00 Tm (M3) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 100.00 131.00 m 100.00 155.00 l S Q
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 104.00 141.00 Tm (Primary administrative modules completed) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 580.00 131.00 m 580.00 155.00 l S Q
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 584.00 141.00 Tm (End of Week 7) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+30.00 107.00 782.00 24.00 re
+B
+Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 34.00 117.00 Tm (M4) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 100.00 107.00 m 100.00 131.00 l S Q
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 104.00 117.00 Tm (Tenant dashboard extension completed) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 580.00 107.00 m 580.00 131.00 l S Q
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 584.00 117.00 Tm (End of Week 8) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+30.00 83.00 782.00 24.00 re
+B
+Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 34.00 93.00 Tm (M5) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 100.00 83.00 m 100.00 107.00 l S Q
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 104.00 93.00 Tm (Testing evidence and refined demo dataset completed) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 580.00 83.00 m 580.00 107.00 l S Q
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 584.00 93.00 Tm (End of Week 10) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+30.00 59.00 782.00 24.00 re
+B
+Q
+BT /F2 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 34.00 69.00 Tm (M6) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 100.00 59.00 m 100.00 83.00 l S Q
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 104.00 69.00 Tm (Documentation and final preparation completed) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 580.00 59.00 m 580.00 83.00 l S Q
+BT /F1 8.6 Tf 0.080 0.100 0.140 rg 1 0 0 1 584.00 69.00 Tm (End of Week 12) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 1911 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 533.00 842.00 62.00 re
+f
+Q
+BT /F2 20 Tf 1.000 1.000 1.000 rg 1 0 0 1 30.00 557.00 Tm (Project Plan) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 30.00 541.00 Tm (Paragon Apartment Management System) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 758.00 541.00 Tm (Page 3) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+30.00 478.00 782.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 485.00 Tm (4. Planning and Control Notes) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 40.00 466.00 Tm 13 TL
+(? Short iterative delivery cycles were used to maintain momentum and allow regular review of) Tj
+T*
+(working software.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 40.00 434.00 Tm 13 TL
+(? Dependencies between design, database development, service logic, and user interface) Tj
+T*
+(implementation were managed incrementally rather than as isolated stages.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 40.00 402.00 Tm 13 TL
+(? Testing and seed data refinement were treated as ongoing activities rather than left) Tj
+T*
+(entirely to the end of the project.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 40.00 370.00 Tm 13 TL
+(? Final submission preparation required coordination between software completion, documentary) Tj
+T*
+(evidence, and presentation planning.) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+30.00 316.00 782.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 323.00 Tm (5. Summary) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 30.00 304.00 Tm 13 TL
+(The project plan was intended to support controlled and progressive delivery of the system, with each) Tj
+T*
+(phase building on the outputs of the previous one. This structure helped ensure that software development,) Tj
+T*
+(testing, and final submission preparation could be managed in a coherent and academically defensible) Tj
+T*
+(manner.) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+10 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000270 00000 n 
+0000009075 00000 n 
+0000009212 00000 n 
+0000018936 00000 n 
+0000019073 00000 n 
+0000021035 00000 n 
+0000021105 00000 n 
+trailer
+<< /Size 11 /Root 1 0 R >>
+startxref
+21181
+%%EOF

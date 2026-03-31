@@ -1,0 +1,536 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R] /Count 3 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 8206 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 533.00 842.00 62.00 re
+f
+Q
+BT /F2 20 Tf 1.000 1.000 1.000 rg 1 0 0 1 24.00 557.00 Tm (Risk Register) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 24.00 541.00 Tm (Paragon Apartment Management System) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 758.00 541.00 Tm (Page 1) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+24.00 478.00 794.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 485.00 Tm (1. Overview) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 24.00 466.00 Tm 13 TL
+(This risk register identifies the principal risks associated with the planning, development, testing,) Tj
+T*
+(documentation, and presentation of the Paragon Apartment Management System. Each risk has been assessed) Tj
+T*
+(in terms of likelihood and impact, with an overall rating used to prioritise mitigation and monitoring.) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+24.00 391.00 794.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 398.00 Tm (2. Risk Assessment Scale) Tj ET
+q
+0.850 0.900 0.960 rg
+0.720 0.780 0.840 RG
+0.6 w
+24.00 355.00 794.00 24.00 re
+B
+Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 363.00 Tm (Factor) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 174.00 355.00 m 174.00 379.00 l S Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 178.00 363.00 Tm (Definition) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+24.00 331.00 794.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 341.00 Tm (Likelihood) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 174.00 331.00 m 174.00 355.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 178.00 341.00 Tm (1 = Low, 2 = Medium, 3 = High) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+24.00 307.00 794.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 317.00 Tm (Impact) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 174.00 307.00 m 174.00 331.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 178.00 317.00 Tm (1 = Low, 2 = Medium, 3 = High) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+24.00 277.00 794.00 30.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 293.00 Tm (Overall Rating) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 174.00 277.00 m 174.00 307.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 178.00 293.00 Tm (Calculated as likelihood x impact, with higher values representing) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 178.00 282.00 Tm (greater project risk.) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+24.00 245.00 794.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 252.00 Tm (3. Project Risk Register) Tj ET
+q
+0.850 0.900 0.960 rg
+0.720 0.780 0.840 RG
+0.6 w
+24.00 209.00 794.00 24.00 re
+B
+Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 217.00 Tm (ID) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 66.00 209.00 m 66.00 233.00 l S Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 217.00 Tm (Risk Description) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 246.00 209.00 m 246.00 233.00 l S Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 250.00 217.00 Tm (L) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 274.00 209.00 m 274.00 233.00 l S Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 278.00 217.00 Tm (I) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 302.00 209.00 m 302.00 233.00 l S Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 306.00 217.00 Tm (Rating) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 348.00 209.00 m 348.00 233.00 l S Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 217.00 Tm (Mitigation / Response) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 704.00 209.00 m 704.00 233.00 l S Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 708.00 217.00 Tm (Owner) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+24.00 168.00 794.00 41.00 re
+B
+Q
+BT /F2 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 195.00 Tm (R01) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 66.00 168.00 m 66.00 209.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 195.00 Tm (Project scope grows beyond) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 184.00 Tm (the planned submission) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 173.00 Tm (boundaries.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 246.00 168.00 m 246.00 209.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 250.00 195.00 Tm (2) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 274.00 168.00 m 274.00 209.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 278.00 195.00 Tm (3) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 302.00 168.00 m 302.00 209.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 306.00 195.00 Tm (6) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 348.00 168.00 m 348.00 209.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 195.00 Tm (Define clear deliverables early, prioritise) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 184.00 Tm (essential features first, and defer non-essential) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 173.00 Tm (enhancements.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 704.00 168.00 m 704.00 209.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 708.00 195.00 Tm (Whole group) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+24.00 105.00 794.00 63.00 re
+B
+Q
+BT /F2 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 154.00 Tm (R02) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 66.00 105.00 m 66.00 168.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 154.00 Tm (Incomplete understanding) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 143.00 Tm (of the specification leads) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 132.00 Tm (to missing required) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 121.00 Tm (evidence or report) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 110.00 Tm (sections.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 246.00 105.00 m 246.00 168.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 250.00 154.00 Tm (2) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 274.00 105.00 m 274.00 168.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 278.00 154.00 Tm (3) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 302.00 105.00 m 302.00 168.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 306.00 154.00 Tm (6) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 348.00 105.00 m 348.00 168.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 154.00 Tm (Review the brief regularly against a structured) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 143.00 Tm (checklist and map each requirement to a project) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 132.00 Tm (output.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 704.00 105.00 m 704.00 168.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 708.00 154.00 Tm (Whole group) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+24.00 42.00 794.00 63.00 re
+B
+Q
+BT /F2 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 91.00 Tm (R03) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 66.00 42.00 m 66.00 105.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 91.00 Tm (Database design errors) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 80.00 Tm (cause inconsistent or) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 69.00 Tm (invalid records across) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 58.00 Tm (leases, invoices, and) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 47.00 Tm (tenant data.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 246.00 42.00 m 246.00 105.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 250.00 91.00 Tm (2) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 274.00 42.00 m 274.00 105.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 278.00 91.00 Tm (3) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 302.00 42.00 m 302.00 105.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 306.00 91.00 Tm (6) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 348.00 42.00 m 348.00 105.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 91.00 Tm (Use a relational schema with constraints, test) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 80.00 Tm (seeded scenarios, and verify linked entities) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 69.00 Tm (during integration.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 704.00 42.00 m 704.00 105.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 708.00 91.00 Tm (Technical lead) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 12335 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 533.00 842.00 62.00 re
+f
+Q
+BT /F2 20 Tf 1.000 1.000 1.000 rg 1 0 0 1 24.00 557.00 Tm (Risk Register) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 24.00 541.00 Tm (Paragon Apartment Management System) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 758.00 541.00 Tm (Page 2) Tj ET
+q
+0.850 0.900 0.960 rg
+0.720 0.780 0.840 RG
+0.6 w
+24.00 476.00 794.00 24.00 re
+B
+Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 484.00 Tm (ID) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 66.00 476.00 m 66.00 500.00 l S Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 484.00 Tm (Risk Description) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 246.00 476.00 m 246.00 500.00 l S Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 250.00 484.00 Tm (L) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 274.00 476.00 m 274.00 500.00 l S Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 278.00 484.00 Tm (I) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 302.00 476.00 m 302.00 500.00 l S Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 306.00 484.00 Tm (Rating) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 348.00 476.00 m 348.00 500.00 l S Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 484.00 Tm (Mitigation / Response) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 704.00 476.00 m 704.00 500.00 l S Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 708.00 484.00 Tm (Owner) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+24.00 402.00 794.00 74.00 re
+B
+Q
+BT /F2 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 462.00 Tm (R04) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 66.00 402.00 m 66.00 476.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 462.00 Tm (Role-based access) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 451.00 Tm (permissions are) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 440.00 Tm (implemented incorrectly,) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 429.00 Tm (exposing data or) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 418.00 Tm (restricting required) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 407.00 Tm (actions.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 246.00 402.00 m 246.00 476.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 250.00 462.00 Tm (2) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 274.00 402.00 m 274.00 476.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 278.00 462.00 Tm (3) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 302.00 402.00 m 302.00 476.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 306.00 462.00 Tm (6) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 348.00 402.00 m 348.00 476.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 462.00 Tm (Centralise RBAC rules, test each role separately,) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 451.00 Tm (and verify access boundaries using both staff and) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 440.00 Tm (tenant accounts.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 704.00 402.00 m 704.00 476.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 708.00 462.00 Tm (Technical lead) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+24.00 350.00 794.00 52.00 re
+B
+Q
+BT /F2 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 388.00 Tm (R05) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 66.00 350.00 m 66.00 402.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 388.00 Tm (Insufficient seed data) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 377.00 Tm (reduces the quality of) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 366.00 Tm (testing, screenshots, and) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 355.00 Tm (live system demonstration.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 246.00 350.00 m 246.00 402.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 250.00 388.00 Tm (2) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 274.00 350.00 m 274.00 402.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 278.00 388.00 Tm (2) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 302.00 350.00 m 302.00 402.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 306.00 388.00 Tm (4) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 348.00 350.00 m 348.00 402.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 388.00 Tm (Prepare realistic multi-city sample data with) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 377.00 Tm (mixed statuses and complete user-role coverage.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 704.00 350.00 m 704.00 402.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 708.00 388.00 Tm (Development) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 708.00 377.00 Tm (team) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+24.00 287.00 794.00 63.00 re
+B
+Q
+BT /F2 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 336.00 Tm (R06) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 66.00 287.00 m 66.00 350.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 336.00 Tm (Manual or automated) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 325.00 Tm (testing is left too late,) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 314.00 Tm (allowing defects to remain) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 303.00 Tm (unresolved before) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 292.00 Tm (submission.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 246.00 287.00 m 246.00 350.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 250.00 336.00 Tm (2) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 274.00 287.00 m 274.00 350.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 278.00 336.00 Tm (3) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 302.00 287.00 m 302.00 350.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 306.00 336.00 Tm (6) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 348.00 287.00 m 348.00 350.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 336.00 Tm (Plan testing alongside development and maintain a) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 325.00 Tm (running set of test cases and evidence throughout) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 314.00 Tm (the project.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 704.00 287.00 m 704.00 350.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 708.00 336.00 Tm (Whole group) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+24.00 224.00 794.00 63.00 re
+B
+Q
+BT /F2 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 273.00 Tm (R07) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 66.00 224.00 m 66.00 287.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 273.00 Tm (UI quality is too weak for) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 262.00 Tm (a professional live) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 251.00 Tm (demonstration, reducing) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 240.00 Tm (the perceived quality of) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 229.00 Tm (the system.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 246.00 224.00 m 246.00 287.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 250.00 273.00 Tm (2) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 274.00 224.00 m 274.00 287.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 278.00 273.00 Tm (2) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 302.00 224.00 m 302.00 287.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 306.00 273.00 Tm (4) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 348.00 224.00 m 348.00 287.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 273.00 Tm (Review interface consistency, improve readability,) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 262.00 Tm (and refine layout before final evidence capture.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 704.00 224.00 m 704.00 287.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 708.00 273.00 Tm (Development) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 708.00 262.00 Tm (team) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+24.00 172.00 794.00 52.00 re
+B
+Q
+BT /F2 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 210.00 Tm (R08) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 66.00 172.00 m 66.00 224.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 210.00 Tm (Team contribution records) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 199.00 Tm (are incomplete, unclear,) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 188.00 Tm (or inconsistent at the) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 177.00 Tm (point of submission.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 246.00 172.00 m 246.00 224.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 250.00 210.00 Tm (2) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 274.00 172.00 m 274.00 224.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 278.00 210.00 Tm (2) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 302.00 172.00 m 302.00 224.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 306.00 210.00 Tm (4) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 348.00 172.00 m 348.00 224.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 210.00 Tm (Maintain a contribution log throughout the project) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 199.00 Tm (and confirm responsibilities, hours, and evidence) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 188.00 Tm (before submission.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 704.00 172.00 m 704.00 224.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 708.00 210.00 Tm (Whole group) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+24.00 120.00 794.00 52.00 re
+B
+Q
+BT /F2 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 158.00 Tm (R09) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 66.00 120.00 m 66.00 172.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 158.00 Tm (Presentation preparation) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 147.00 Tm (is insufficient, resulting) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 136.00 Tm (in an unclear or poorly) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 125.00 Tm (coordinated demonstration.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 246.00 120.00 m 246.00 172.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 250.00 158.00 Tm (2) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 274.00 120.00 m 274.00 172.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 278.00 158.00 Tm (3) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 302.00 120.00 m 302.00 172.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 306.00 158.00 Tm (6) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 348.00 120.00 m 348.00 172.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 158.00 Tm (Prepare a demo order, rehearse key workflows, and) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 147.00 Tm (ensure each team member understands their speaking) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 136.00 Tm (role.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 704.00 120.00 m 704.00 172.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 708.00 158.00 Tm (Whole group) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+24.00 57.00 794.00 63.00 re
+B
+Q
+BT /F2 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 106.00 Tm (R10) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 66.00 57.00 m 66.00 120.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 106.00 Tm (MySQL environment or local) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 95.00 Tm (configuration issues) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 84.00 Tm (prevent the system from) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 73.00 Tm (running reliably on the) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 62.00 Tm (demo machine.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 246.00 57.00 m 246.00 120.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 250.00 106.00 Tm (2) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 274.00 57.00 m 274.00 120.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 278.00 106.00 Tm (3) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 302.00 57.00 m 302.00 120.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 306.00 106.00 Tm (6) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 348.00 57.00 m 348.00 120.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 106.00 Tm (Verify database setup early, keep startup) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 95.00 Tm (instructions updated, and test the system on the) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 84.00 Tm (intended environment before presentation.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 704.00 57.00 m 704.00 120.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 708.00 106.00 Tm (Technical lead) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 9 0 R /F2 10 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 5054 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 533.00 842.00 62.00 re
+f
+Q
+BT /F2 20 Tf 1.000 1.000 1.000 rg 1 0 0 1 24.00 557.00 Tm (Risk Register) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 24.00 541.00 Tm (Paragon Apartment Management System) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 758.00 541.00 Tm (Page 3) Tj ET
+q
+0.850 0.900 0.960 rg
+0.720 0.780 0.840 RG
+0.6 w
+24.00 476.00 794.00 24.00 re
+B
+Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 484.00 Tm (ID) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 66.00 476.00 m 66.00 500.00 l S Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 484.00 Tm (Risk Description) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 246.00 476.00 m 246.00 500.00 l S Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 250.00 484.00 Tm (L) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 274.00 476.00 m 274.00 500.00 l S Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 278.00 484.00 Tm (I) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 302.00 476.00 m 302.00 500.00 l S Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 306.00 484.00 Tm (Rating) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 348.00 476.00 m 348.00 500.00 l S Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 484.00 Tm (Mitigation / Response) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 704.00 476.00 m 704.00 500.00 l S Q
+BT /F2 8.2 Tf 0.080 0.100 0.140 rg 1 0 0 1 708.00 484.00 Tm (Owner) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+24.00 413.00 794.00 63.00 re
+B
+Q
+BT /F2 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 462.00 Tm (R11) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 66.00 413.00 m 66.00 476.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 462.00 Tm (Over-reliance on one team) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 451.00 Tm (member creates delivery) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 440.00 Tm (bottlenecks and weakens) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 429.00 Tm (shared understanding of) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 418.00 Tm (the project.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 246.00 413.00 m 246.00 476.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 250.00 462.00 Tm (3) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 274.00 413.00 m 274.00 476.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 278.00 462.00 Tm (2) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 302.00 413.00 m 302.00 476.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 306.00 462.00 Tm (6) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 348.00 413.00 m 348.00 476.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 462.00 Tm (Distribute responsibilities where possible and) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 451.00 Tm (ensure that all members understand the design,) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 440.00 Tm (features, and submission evidence.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 704.00 413.00 m 704.00 476.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 708.00 462.00 Tm (Whole group) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+24.00 361.00 794.00 52.00 re
+B
+Q
+BT /F2 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 399.00 Tm (R12) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 66.00 361.00 m 66.00 413.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 399.00 Tm (Final submission packaging) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 388.00 Tm (is incomplete or contains) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 377.00 Tm (the wrong files or) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 70.00 366.00 Tm (formats.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 246.00 361.00 m 246.00 413.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 250.00 399.00 Tm (2) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 274.00 361.00 m 274.00 413.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 278.00 399.00 Tm (3) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 302.00 361.00 m 302.00 413.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 306.00 399.00 Tm (6) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 348.00 361.00 m 348.00 413.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 399.00 Tm (Use a deliverables checklist, perform a final) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 388.00 Tm (review of file names and formats, and confirm all) Tj ET
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 352.00 377.00 Tm (evidence is included before upload.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 704.00 361.00 m 704.00 413.00 l S Q
+BT /F1 7.9 Tf 0.080 0.100 0.140 rg 1 0 0 1 708.00 399.00 Tm (Whole group) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+24.00 329.00 794.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 336.00 Tm (4. Summary) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 24.00 317.00 Tm 13 TL
+(The highest-priority risks in this project relate to scope control, specification coverage, technical) Tj
+T*
+(correctness, testing completeness, and final submission readiness. By documenting these risks and) Tj
+T*
+(linking them to practical mitigation actions, the team can demonstrate a more controlled and) Tj
+T*
+(professionally managed development process.) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+10 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000133 00000 n 
+0000000270 00000 n 
+0000008527 00000 n 
+0000008664 00000 n 
+0000021051 00000 n 
+0000021188 00000 n 
+0000026293 00000 n 
+0000026363 00000 n 
+trailer
+<< /Size 11 /Root 1 0 R >>
+startxref
+26439
+%%EOF

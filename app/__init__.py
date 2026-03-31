@@ -1,0 +1,1 @@
+"""PAMS desktop application package."""

@@ -1,0 +1,19 @@
+digraph SeqTenant {
+  graph [rankdir=LR, bgcolor="white", fontname="Helvetica", fontsize=12, splines=true, nodesep=0.8, ranksep=0.7];
+  node [shape=box, style="rounded,filled", fillcolor="#f8fafc", color="#64748b", fontname="Helvetica", fontsize=10];
+  edge [fontname="Helvetica", fontsize=9, color="#1e293b", arrowsize=0.8];
+
+  FD [label="FrontDesk"];
+  UI [label="UI"];
+  S [label="Service"];
+  DB [label="Database"];
+
+  FD -> UI [label="1. Enter tenant + lease details"];
+  UI -> S [label="2. register_tenant(data)"];
+  S -> DB [label="3. INSERT tenant"];
+  DB -> S [label="4. tenantId"];
+  S -> DB [label="5. CREATE lease"];
+  S -> DB [label="6. UPDATE apartment status=OCCUPIED"];
+  S -> UI [label="7. Success"];
+  UI -> FD [label="8. Confirmation"];
+}

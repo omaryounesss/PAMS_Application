@@ -1,0 +1,294 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 7 0 R /F2 8 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 5291 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 531.00 842.00 64.00 re
+f
+Q
+BT /F2 20 Tf 1.000 1.000 1.000 rg 1 0 0 1 34.00 557.00 Tm (Aims and Objectives) Tj ET
+BT /F1 10 Tf 0.850 0.900 0.960 rg 1 0 0 1 34.00 540.00 Tm (Paragon Apartment Management System) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 752.00 540.00 Tm (Page 1) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+34.00 476.00 774.00 24.00 re
+B
+Q
+BT /F2 12 Tf 0.080 0.100 0.140 rg 1 0 0 1 42.00 484.00 Tm (1. Introduction) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 34.00 462.00 Tm 13 TL
+(This section defines the overall aim and associated objectives of the Paragon Apartment Management System) Tj
+T*
+(project. The aim establishes the broad purpose of the project, while the objectives identify the specific) Tj
+T*
+(outcomes required to deliver, evaluate, and justify the proposed solution in accordance with the SDGP brief) Tj
+T*
+(and the case study.) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+34.00 368.00 774.00 24.00 re
+B
+Q
+BT /F2 12 Tf 0.080 0.100 0.140 rg 1 0 0 1 42.00 376.00 Tm (2. Project Aim) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+34.00 300.00 774.00 54.00 re
+B
+Q
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 44.00 338.00 Tm 13 TL
+(The aim of this project is to design, implement, and critically evaluate a secure desktop-based Paragon) Tj
+T*
+(Apartment Management System, developed using Python Tkinter and MySQL, in order to support the efficient) Tj
+T*
+(administration of apartments, tenants, maintenance activities, billing operations, management reporting,) Tj
+T*
+(and tenant self-service functions across multiple city locations.) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+34.00 258.00 774.00 24.00 re
+B
+Q
+BT /F2 12 Tf 0.080 0.100 0.140 rg 1 0 0 1 42.00 266.00 Tm (3. Project Objectives) Tj ET
+q
+0.850 0.900 0.960 rg
+0.720 0.780 0.840 RG
+0.6 w
+34.00 228.00 774.00 24.00 re
+B
+Q
+BT /F2 9 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 236.00 Tm (ID) Tj ET
+BT /F2 9 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 236.00 Tm (Objective) Tj ET
+BT /F2 9 Tf 0.080 0.100 0.140 rg 1 0 0 1 460.00 236.00 Tm (Purpose) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 106.00 228.00 m 106.00 252.00 l S Q
+q 0.720 0.780 0.840 RG 0.60 w 456.00 228.00 m 456.00 252.00 l S Q
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+34.00 185.00 774.00 43.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 214.00 Tm (OBJ01) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 106.00 185.00 m 106.00 228.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 214.00 Tm (To analyse the Paragon Apartment Management System) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 203.00 Tm (case study and derive a clear set of validated) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 192.00 Tm (functional and non-functional requirements.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 456.00 185.00 m 456.00 228.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 460.00 214.00 Tm (To ensure that the proposed solution is grounded) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 460.00 203.00 Tm (in the operational needs of the organisation and) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 460.00 192.00 Tm (aligned with the project brief.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+34.00 131.00 774.00 54.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 171.00 Tm (OBJ02) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 106.00 131.00 m 106.00 185.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 171.00 Tm (To specify and design an appropriate software) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 160.00 Tm (architecture, supported by suitable system models,) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 149.00 Tm (database structures, and role-based access) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 138.00 Tm (controls.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 456.00 131.00 m 456.00 185.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 460.00 171.00 Tm (To provide a coherent technical foundation for the) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 460.00 160.00 Tm (system and ensure that user responsibilities are) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 460.00 149.00 Tm (reflected in the design.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+34.00 77.00 774.00 54.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 117.00 Tm (OBJ03) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 106.00 77.00 m 106.00 131.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 117.00 Tm (To develop an administrative and staff-facing) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 106.00 Tm (desktop application that supports the management) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 95.00 Tm (of tenants, apartments, maintenance requests,) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 84.00 Tm (invoices, users, and cities.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 456.00 77.00 m 456.00 131.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 460.00 117.00 Tm (To deliver the core operational functionality) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 460.00 106.00 Tm (required by the organisation for day-to-day) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 460.00 95.00 Tm (apartment management.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 7 0 R /F2 8 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 6868 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 531.00 842.00 64.00 re
+f
+Q
+BT /F2 20 Tf 1.000 1.000 1.000 rg 1 0 0 1 34.00 557.00 Tm (Aims and Objectives) Tj ET
+BT /F1 10 Tf 0.850 0.900 0.960 rg 1 0 0 1 34.00 540.00 Tm (Paragon Apartment Management System) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 752.00 540.00 Tm (Page 2) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+34.00 476.00 774.00 24.00 re
+B
+Q
+BT /F2 12 Tf 0.080 0.100 0.140 rg 1 0 0 1 42.00 484.00 Tm (3. Project Objectives \(continued\)) Tj ET
+q
+0.850 0.900 0.960 rg
+0.720 0.780 0.840 RG
+0.6 w
+34.00 446.00 774.00 24.00 re
+B
+Q
+BT /F2 9 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 454.00 Tm (ID) Tj ET
+BT /F2 9 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 454.00 Tm (Objective) Tj ET
+BT /F2 9 Tf 0.080 0.100 0.140 rg 1 0 0 1 460.00 454.00 Tm (Purpose) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 106.00 446.00 m 106.00 470.00 l S Q
+q 0.720 0.780 0.840 RG 0.60 w 456.00 446.00 m 456.00 470.00 l S Q
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+34.00 381.00 774.00 65.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 432.00 Tm (OBJ04) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 106.00 381.00 m 106.00 446.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 432.00 Tm (To implement the tenant self-service functionality) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 421.00 Tm (required by the SDGP case study, including payment) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 410.00 Tm (record viewing, late payment alerts, complaint) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 399.00 Tm (submission, repair request submission, repair) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 388.00 Tm (progress tracking, and data visualisation.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 456.00 381.00 m 456.00 446.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 460.00 432.00 Tm (To extend the original case study with meaningful) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 460.00 421.00 Tm (tenant-facing functionality that improves) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 460.00 410.00 Tm (accessibility and transparency.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+34.00 327.00 774.00 54.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 367.00 Tm (OBJ05) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 106.00 327.00 m 106.00 381.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 367.00 Tm (To design and integrate a MySQL relational) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 356.00 Tm (database capable of maintaining data accuracy,) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 345.00 Tm (integrity, consistency, and security across all) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 334.00 Tm (key system entities.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 456.00 327.00 m 456.00 381.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 460.00 367.00 Tm (To ensure that the application is supported by a) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 460.00 356.00 Tm (reliable and properly structured data management) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 460.00 345.00 Tm (layer.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+34.00 273.00 774.00 54.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 313.00 Tm (OBJ06) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 106.00 273.00 m 106.00 327.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 313.00 Tm (To conduct systematic testing of the completed) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 302.00 Tm (application through planned test cases in order to) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 291.00 Tm (evaluate correctness, usability, reliability, and) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 280.00 Tm (compliance with the identified requirements.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 456.00 273.00 m 456.00 327.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 460.00 313.00 Tm (To verify that the implemented solution performs) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 460.00 302.00 Tm (as intended and satisfies the expected quality) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 460.00 291.00 Tm (standards.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+34.00 219.00 774.00 54.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 259.00 Tm (OBJ07) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 106.00 219.00 m 106.00 273.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 259.00 Tm (To undertake a critical evaluation of the) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 248.00 Tm (completed system by comparing the implemented) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 237.00 Tm (solution against the original aim, objectives, and) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 226.00 Tm (project requirements.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 456.00 219.00 m 456.00 273.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 460.00 259.00 Tm (To identify the strengths, limitations, and future) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 460.00 248.00 Tm (improvement opportunities of the final product.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+34.00 154.00 774.00 65.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 205.00 Tm (OBJ08) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 106.00 154.00 m 106.00 219.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 205.00 Tm (To demonstrate effective team-based software) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 194.00 Tm (development practice through planning,) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 183.00 Tm (communication, collaboration, risk awareness, and) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 172.00 Tm (reflective learning throughout the project) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 110.00 161.00 Tm (lifecycle.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 456.00 154.00 m 456.00 219.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 460.00 205.00 Tm (To show that the project was delivered using) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 460.00 194.00 Tm (appropriate professional and academic development) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 460.00 183.00 Tm (practices.) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+34.00 116.00 774.00 24.00 re
+B
+Q
+BT /F2 12 Tf 0.080 0.100 0.140 rg 1 0 0 1 42.00 124.00 Tm (4. Summary) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 34.00 102.00 Tm 13 TL
+(Together, the aim and objectives provide a clear framework for the development of the Paragon Apartment) Tj
+T*
+(Management System. They define not only what the project intends to achieve, but also the specific areas in) Tj
+T*
+(which success can be measured during design, implementation, testing, evaluation, and final presentation.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+8 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000263 00000 n 
+0000005605 00000 n 
+0000005741 00000 n 
+0000012660 00000 n 
+0000012730 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+12805
+%%EOF

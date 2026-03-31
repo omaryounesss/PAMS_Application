@@ -1,0 +1,136 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 3314 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 780.00 595.00 62.00 re
+f
+Q
+BT /F2 18 Tf 1.000 1.000 1.000 rg 1 0 0 1 48.00 804.00 Tm (Additional Packages and Dependencies) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 48.00 788.00 Tm (Paragon Apartment Management System) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 511.00 788.00 Tm (Page 1) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 754.00 499.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 56.00 761.00 Tm (1. Purpose) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 48.00 742.00 Tm 13 TL
+(This document identifies the additional package requirements needed to run the Paragon) Tj
+T*
+(Apartment Management System and clarifies the installation method used within the) Tj
+T*
+(project.) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 667.00 499.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 56.00 674.00 Tm (2. Required Additional Package) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 48.00 655.00 Tm 13 TL
+(The application depends on a MySQL connector package in order to communicate with the) Tj
+T*
+(MySQL database from Python.) Tj
+ET
+q
+0.850 0.900 0.960 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 591.00 499.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 52.00 599.00 Tm (Package) Tj ET
+q 0.720 0.780 0.840 RG 0.6 w 228.00 591.00 m 228.00 615.00 l S Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 232.00 599.00 Tm (Version Requirement) Tj ET
+q 0.720 0.780 0.840 RG 0.6 w 378.00 591.00 m 378.00 615.00 l S Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 382.00 599.00 Tm (Purpose) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 561.00 499.00 30.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 52.00 577.00 Tm (mysql-connector-python) Tj ET
+q 0.720 0.780 0.840 RG 0.6 w 228.00 561.00 m 228.00 591.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 232.00 577.00 Tm (>= 9.0.0) Tj ET
+q 0.720 0.780 0.840 RG 0.6 w 378.00 561.00 m 378.00 591.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 382.00 577.00 Tm (Provides Python-to-MySQL connectivity) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 382.00 566.00 Tm (required by the application service layer.) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 529.00 499.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 56.00 536.00 Tm (3. Installation Command) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 48.00 517.00 Tm 13 TL
+(All required dependencies can be installed using the following command from the project) Tj
+T*
+(root directory:) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 455.00 499.00 26.00 re
+B
+Q
+BT /F2 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 58.00 464.00 Tm (pip install -r requirements.txt) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 419.00 499.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 56.00 426.00 Tm (4. Notes) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 58.00 407.00 Tm 13 TL
+(? Tkinter is used as part of the Python desktop environment and does not require a) Tj
+T*
+(separate package entry in requirements.txt in the current setup.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 58.00 375.00 Tm 13 TL
+(? The package list should be included with the submission to demonstrate the) Tj
+T*
+(external dependency required by the system.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000257 00000 n 
+0000003622 00000 n 
+0000003692 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3767
+%%EOF

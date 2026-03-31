@@ -1,0 +1,37 @@
+digraph UseCase {
+  graph [rankdir=LR, bgcolor="white", fontname="Helvetica", fontsize=12, splines=true, nodesep=0.5, ranksep=0.8];
+  node [fontname="Helvetica", fontsize=10];
+  edge [fontname="Helvetica", fontsize=9, color="#334155"];
+
+  FD [shape=box, style="rounded,filled", fillcolor="#e2e8f0", label="Front-desk Staff"];
+  FM [shape=box, style="rounded,filled", fillcolor="#e2e8f0", label="Finance Manager"];
+  MS [shape=box, style="rounded,filled", fillcolor="#e2e8f0", label="Maintenance Staff"];
+  AD [shape=box, style="rounded,filled", fillcolor="#e2e8f0", label="Administrator"];
+  MG [shape=box, style="rounded,filled", fillcolor="#e2e8f0", label="Manager"];
+
+  subgraph cluster_system {
+    label="PAMS System";
+    color="#94a3b8";
+    style="rounded";
+    fontsize=12;
+
+    U1 [shape=ellipse, style=filled, fillcolor="#d1fae5", label="Login"];
+    U2 [shape=ellipse, style=filled, fillcolor="#d1fae5", label="Manage Tenants"];
+    U3 [shape=ellipse, style=filled, fillcolor="#d1fae5", label="Manage Leases"];
+    U4 [shape=ellipse, style=filled, fillcolor="#d1fae5", label="Manage Apartments"];
+    U5 [shape=ellipse, style=filled, fillcolor="#d1fae5", label="Create/Track\nMaintenance Request"];
+    U6 [shape=ellipse, style=filled, fillcolor="#d1fae5", label="Manage Invoices"];
+    U7 [shape=ellipse, style=filled, fillcolor="#d1fae5", label="Record Payments"];
+    U8 [shape=ellipse, style=filled, fillcolor="#d1fae5", label="Generate Occupancy\nReport"];
+    U9 [shape=ellipse, style=filled, fillcolor="#d1fae5", label="Generate Financial\nReport"];
+    U10 [shape=ellipse, style=filled, fillcolor="#d1fae5", label="Generate Maintenance\nReport"];
+    U11 [shape=ellipse, style=filled, fillcolor="#d1fae5", label="Manage User Accounts"];
+    U12 [shape=ellipse, style=filled, fillcolor="#d1fae5", label="Manage City\nLocations"];
+  }
+
+  FD -> U1; FD -> U2; FD -> U3; FD -> U5;
+  FM -> U1; FM -> U6; FM -> U7; FM -> U9;
+  MS -> U1; MS -> U5; MS -> U10;
+  AD -> U1; AD -> U2; AD -> U3; AD -> U4; AD -> U5; AD -> U6; AD -> U7; AD -> U8; AD -> U9; AD -> U10; AD -> U11;
+  MG -> U1; MG -> U8; MG -> U9; MG -> U10; MG -> U12;
+}

@@ -1,0 +1,79 @@
+PAMS Application Run Instructions
+================================
+
+This guide is for running the application on another machine. Do not assume that everyone has the same MySQL password or local setup.
+
+1) Prerequisites
+   - Python 3.11+ installed
+   - MySQL Server installed and running
+   - A MySQL user that can create and use a database called `pams`
+
+2) Open a terminal in the `PAMS_Application` folder
+
+3) Create and activate a virtual environment
+   macOS / Linux:
+   python3 -m venv .venv
+   source .venv/bin/activate
+
+   Windows:
+   py -m venv .venv
+   .venv\\Scripts\\activate
+
+4) Install dependencies
+   pip install -r requirements.txt
+
+5) Set your own MySQL environment variables
+   The app no longer assumes a shared password. Each user must set their own database credentials.
+
+   Example for macOS / Linux:
+   export PAMS_DB_HOST=127.0.0.1
+   export PAMS_DB_PORT=3306
+   export PAMS_DB_USER=root
+   export PAMS_DB_PASSWORD=\"YOUR_MYSQL_PASSWORD\"
+   export PAMS_DB_NAME=pams
+
+   Example for Windows PowerShell:
+   $env:PAMS_DB_HOST=\"127.0.0.1\"
+   $env:PAMS_DB_PORT=\"3306\"
+   $env:PAMS_DB_USER=\"root\"
+   $env:PAMS_DB_PASSWORD=\"YOUR_MYSQL_PASSWORD\"
+   $env:PAMS_DB_NAME=\"pams\"
+
+   You can also use the included `.env.example` as a reference and copy the values into your shell.
+
+6) Initialise the database
+   python3 scripts/bootstrap_db.py
+
+   What this does:
+   - applies `sql/schema.sql`
+   - applies `sql/seed.sql`
+   - resets the database to the seeded demo state
+
+7) Run the application
+   python3 main.py
+
+8) Seed login accounts
+   - admin_bristol / Admin@123
+   - frontdesk_bristol / Front@123
+   - finance_bristol / Finance@123
+   - maintenance_bristol / Maintain@123
+   - manager_uk / Manager@123
+   - admin_cardiff / Admin@123
+   - tenant_hamdy / Tenant@123
+   - tenant_alabweh / Tenant@123
+   - tenant_younes / Tenant@123
+   - tenant_sharaf / Tenant@123
+   - tenant_nadine / Tenant@123
+   - tenant_yousef / Tenant@123
+   - tenant_mariam / Tenant@123
+   - tenant_nour / Tenant@123
+
+9) Run automated tests (optional)
+   python3 -m unittest discover -s tests -p \"test_*.py\"
+
+10) Common troubleshooting
+   - If MySQL is not running, start the MySQL service first.
+   - If `bootstrap_db.py` fails to connect, check your `PAMS_DB_USER` and `PAMS_DB_PASSWORD`.
+   - If `mysql-connector-python` is missing, re-run:
+     pip install -r requirements.txt
+   - If the demo data has been changed by testing, run `python3 scripts/bootstrap_db.py` again to reset it.

@@ -1,0 +1,19 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Local database exports or machine-specific files
+pams_dump.sql
+
+# macOS / editor noise
+.idea/
+.vscode/
+
+# Build / generated artifacts
+dist/

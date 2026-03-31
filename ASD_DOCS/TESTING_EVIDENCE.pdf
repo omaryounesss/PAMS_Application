@@ -1,0 +1,206 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 2 /Kids [5 0 R 7 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Length 2995 >>
+stream
+BT
+/F1 11 Tf
+48.00 794.00 Td
+(TESTING EVIDENCE \(MANUAL + AUTOMATED\)) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(1. AUTOMATED TESTING) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Command:) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(```bash) Tj
+0 -14 Td
+(python3 -m unittest discover -s tests -p "test_*.py") Tj
+0 -14 Td
+(```) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Observed result:) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(- `Ran 10 tests in 0.07s`) Tj
+0 -14 Td
+(- `OK`) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(Test scope:) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(- password hashing and verification) Tj
+0 -14 Td
+(- field validators \(NI, email, phone, money, date order\)) Tj
+0 -14 Td
+(- core business rules \(early-leave penalty, notice period, invoice lateness\)) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(2. MANUAL TEST CASES) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(| Case # | Description | Test Input | Expected Output | Actual Output | Evidence Screenshot |) Tj
+0 -14 Td
+(|---:|---|---|---|---|---|) Tj
+0 -14 Td
+(| 1 | Login screen loads | Open app start page | Username/password form appears | As expected |) Tj
+0 -14 Td
+(Login screen |) Tj
+0 -14 Td
+(| 2 | Admin dashboard card values | Login as admin_cardiff | City-scoped summary cards update | As) Tj
+0 -14 Td
+(expected | Admin dashboard screenshot |) Tj
+0 -14 Td
+(| 3 | Manager dashboard values | Login as manager_uk | Cross-city totals displayed | As expected |) Tj
+0 -14 Td
+(Manager dashboard screenshot |) Tj
+0 -14 Td
+(| 4 | Tenant list display | Open Tenants tab | Existing tenants shown by scope | As expected |) Tj
+0 -14 Td
+(Tenants tab screenshot |) Tj
+0 -14 Td
+(| 5 | Apartment list display | Open Apartments tab | Apartments with status/rent displayed | As) Tj
+0 -14 Td
+(expected | Apartments tab screenshot |) Tj
+0 -14 Td
+(| 6 | Maintenance list display | Open Maintenance tab | Requests with status, cost, hours shown |) Tj
+0 -14 Td
+(As expected | Maintenance tab screenshot |) Tj
+0 -14 Td
+(| 7 | Billing list display | Open Billing tab | Invoices show city/tenant/amount/status | As) Tj
+0 -14 Td
+(expected | Billing tab screenshot |) Tj
+0 -14 Td
+(| 8 | Users and cities display | Open Users & Cities tab | User records visible to admin | As) Tj
+0 -14 Td
+(expected | Users & Cities screenshot |) Tj
+0 -14 Td
+(| 9 | Multi-city manager scope | Login manager_uk | Sees 12 apartments and 12 tenants | As) Tj
+0 -14 Td
+(expected | Manager dashboard screenshot |) Tj
+0 -14 Td
+(| 10 | City-admin scope restriction | Login admin_cardiff | Sees only Cardiff-scoped data | As) Tj
+0 -14 Td
+(expected | Admin dashboard + tenants screenshot |) Tj
+0 -14 Td
+(| 11 | Add apartment action | Enter apartment form data | New apartment persisted and listed |) Tj
+0 -14 Td
+(Passed during manual run | Apartments tab |) Tj
+0 -14 Td
+(| 12 | Request maintenance action | Create request in maintenance form | New row appears in) Tj
+0 -14 Td
+(maintenance list | Passed during manual run | Maintenance tab |) Tj
+0 -14 Td
+(| 13 | Create invoice action | Enter lease/month/due/amount | New invoice row created | Passed) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.00 842.00] /Resources << /Font << /F1 3 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 1359 >>
+stream
+BT
+/F1 11 Tf
+48.00 794.00 Td
+(during manual run | Billing tab |) Tj
+0 -14 Td
+(| 14 | Record payment action | Enter invoice/payment fields | Invoice status updates paid/partial) Tj
+0 -14 Td
+(| Passed during manual run | Billing tab |) Tj
+0 -14 Td
+(| 15 | Tenant early-leave action | Lease ID + requested date | Request captured; penalty rule) Tj
+0 -14 Td
+(applied | Passed during manual run | Tenants tab operations panel |) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(3. INTEGRATION FLOW TESTS) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(- Flow A: Register tenant -> create lease -> generate invoice -> record payment) Tj
+0 -14 Td
+(- Flow B: Register maintenance request -> schedule -> resolve -> maintenance report) Tj
+0 -14 Td
+(- Flow C: Add apartment -> occupancy reflected in report) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(All three flows were executed manually and validated using UI state changes and list views.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(4. SCREENSHOT SET USED AS EVIDENCE) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(- Login interface) Tj
+0 -14 Td
+(- Manager dashboard with cross-city totals) Tj
+0 -14 Td
+(- Admin dashboard with city-scoped totals) Tj
+0 -14 Td
+(- Tenant management screen) Tj
+0 -14 Td
+(- Apartment management screen) Tj
+0 -14 Td
+(- Maintenance management screen) Tj
+0 -14 Td
+(- Billing and payment screen) Tj
+0 -14 Td
+(- User and city management screen) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.00 842.00] /Resources << /Font << /F1 3 0 R >> >> /Contents 6 0 R >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000197 00000 n 
+0000003244 00000 n 
+0000003376 00000 n 
+0000004787 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+4919
+%%EOF

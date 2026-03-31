@@ -1,0 +1,17 @@
+digraph SeqMaintenance {
+  graph [rankdir=LR, bgcolor="white", fontname="Helvetica", fontsize=12, splines=true, nodesep=0.8, ranksep=0.7];
+  node [shape=box, style="rounded,filled", fillcolor="#f8fafc", color="#64748b", fontname="Helvetica", fontsize=10];
+  edge [fontname="Helvetica", fontsize=9, color="#1e293b", arrowsize=0.8];
+
+  MS [label="MaintenanceStaff"];
+  UI [label="UI"];
+  S [label="Service"];
+  DB [label="Database"];
+
+  MS -> UI [label="1. Submit maintenance update"];
+  UI -> S [label="2. update_maintenance(data)"];
+  S -> DB [label="3. SELECT request + scope check"];
+  S -> DB [label="4. UPDATE request status/cost/hours"];
+  S -> UI [label="5. Update successful"];
+  UI -> MS [label="6. Show resolved status"];
+}

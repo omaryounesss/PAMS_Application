@@ -1,0 +1,503 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Length 3411 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 533.00 842.00 62.00 re
+f
+Q
+BT /F2 20 Tf 1.000 1.000 1.000 rg 1 0 0 1 28.00 557.00 Tm 20 TL
+(Evaluation and Lessons Learned) Tj
+ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 28.00 541.00 Tm 10 TL
+(Paragon Apartment Management System) Tj
+ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 758.00 541.00 Tm 10 TL
+(Page 1) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 478.00 786.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 485.00 Tm 13 TL
+(1. Overview) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 451.00 Tm 13 TL
+(This section evaluates the completed Paragon Apartment Management System against the project aim, the) Tj
+T*
+(validated requirements, and the expectations of the SDGP case study. It also reflects on the main) Tj
+T*
+(lessons learned during development and identifies realistic improvements that would strengthen the) Tj
+T*
+(system in future iterations.) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 386.00 786.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 393.00 Tm 13 TL
+(2. Evaluation Against the Project Aim) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 359.00 Tm 13 TL
+(The overall aim of the project was to design, develop, and evaluate a secure desktop-based apartment) Tj
+T*
+(management system using Python Tkinter and MySQL. This aim has been achieved to a strong academic) Tj
+T*
+(standard. The completed application provides a working multi-user solution that supports apartment) Tj
+T*
+(administration, tenant management, maintenance processing, billing operations, reporting, and tenant) Tj
+T*
+(self-service functionality.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 288.00 Tm 13 TL
+(The final system demonstrates that the team moved beyond analysis and design into a functioning software) Tj
+T*
+(product with persistent data storage, clear business rules, and role-specific workflows. As a result,) Tj
+T*
+(the project is suitable for both technical discussion and live demonstration.) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 236.00 786.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 243.00 Tm 13 TL
+(3. Evaluation Against Functional Requirements) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 209.00 Tm 13 TL
+(The implemented system satisfies the main functional requirements identified during analysis.) Tj
+T*
+(Administrative and staff users can manage apartments, tenants, leases, maintenance requests, invoices,) Tj
+T*
+(users, and cities according to their authorised role. In addition, the SDGP extension requirements were) Tj
+T*
+(addressed through a tenant portal that supports payment review, late alerts, complaint submission,) Tj
+T*
+(repair request submission, repair tracking, and graphical analysis.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 138.00 Tm 13 TL
+(- Core administrative and staff workflows were implemented across tenant, apartment, maintenance,) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 50.00 125.00 Tm 13 TL
+(billing, and reporting modules.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 106.00 Tm 13 TL
+(- Tenant-facing functionality was extended in line with the SDGP case requirements.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 87.00 Tm 13 TL
+(- End-to-end operational flows can be demonstrated using seeded data and role-based user accounts.) Tj
+ET
+
+endstream
+endobj
+2 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> /Contents 1 0 R >>
+endobj
+3 0 obj
+<< /Length 2494 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 533.00 842.00 62.00 re
+f
+Q
+BT /F2 20 Tf 1.000 1.000 1.000 rg 1 0 0 1 28.00 557.00 Tm 20 TL
+(Evaluation and Lessons Learned) Tj
+ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 28.00 541.00 Tm 10 TL
+(Paragon Apartment Management System) Tj
+ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 758.00 541.00 Tm 10 TL
+(Page 2) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 485.00 Tm 13 TL
+(Some features remain intentionally simplified for coursework purposes. For example, card payment) Tj
+T*
+(processing is simulated rather than connected to a real external payment gateway, and reporting remains) Tj
+T*
+(focused on academic demonstration rather than enterprise-scale analytics.) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 433.00 786.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 440.00 Tm 13 TL
+(4. Evaluation Against Non-Functional Requirements) Tj
+ET
+BT /F2 10.5 Tf 0.160 0.220 0.320 rg 1 0 0 1 38.00 406.00 Tm 12 TL
+(4.1 Usability) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 388.00 Tm 13 TL
+(The interface is organised around clear tabs, structured forms, visible status indicators, and) Tj
+T*
+(consistent navigation patterns. UI polish and improved seed data have strengthened the clarity of) Tj
+T*
+(demonstrations and reduced the amount of manual setup required during testing and presentation.) Tj
+ET
+BT /F2 10.5 Tf 0.160 0.220 0.320 rg 1 0 0 1 38.00 343.00 Tm 12 TL
+(4.2 Security) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 325.00 Tm 13 TL
+(Authentication, validation checks, and role-based access control provide an appropriate level of) Tj
+T*
+(protection for the project scope. Permission boundaries are particularly important because tenant users) Tj
+T*
+(must remain separate from staff and administrative operations.) Tj
+ET
+BT /F2 10.5 Tf 0.160 0.220 0.320 rg 1 0 0 1 38.00 280.00 Tm 12 TL
+(4.3 Reliability and Maintainability) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 262.00 Tm 13 TL
+(The use of MySQL provides stable persistent storage, while the service layer centralises business rules) Tj
+T*
+(and reduces duplication. The codebase is organised into clear modules for UI, services, validation,) Tj
+T*
+(database access, and business rules, which made later feature extension more manageable.) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 210.00 786.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 217.00 Tm 13 TL
+(5. Summary Evaluation Table) Tj
+ET
+
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Length 5303 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 533.00 842.00 62.00 re
+f
+Q
+BT /F2 20 Tf 1.000 1.000 1.000 rg 1 0 0 1 28.00 557.00 Tm 20 TL
+(Evaluation and Lessons Learned) Tj
+ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 28.00 541.00 Tm 10 TL
+(Paragon Apartment Management System) Tj
+ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 758.00 541.00 Tm 10 TL
+(Page 3) Tj
+ET
+q
+0.850 0.900 0.960 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 461.00 786.00 24.00 re
+B
+Q
+q 0.720 0.780 0.840 RG 0.60 w 210.00 461.00 m 210.00 485.00 l S Q
+q 0.720 0.780 0.840 RG 0.60 w 360.00 461.00 m 360.00 485.00 l S Q
+q 0.720 0.780 0.840 RG 0.60 w 560.00 461.00 m 560.00 485.00 l S Q
+BT /F2 8.4 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 469.00 Tm 13 TL
+(Criterion) Tj
+ET
+BT /F2 8.4 Tf 0.080 0.100 0.140 rg 1 0 0 1 214.00 469.00 Tm 13 TL
+(Assessment) Tj
+ET
+BT /F2 8.4 Tf 0.080 0.100 0.140 rg 1 0 0 1 364.00 469.00 Tm 13 TL
+(Evidence) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 427.00 786.00 34.00 re
+B
+Q
+q 0.720 0.780 0.840 RG 0.60 w 210.00 427.00 m 210.00 461.00 l S Q
+q 0.720 0.780 0.840 RG 0.60 w 360.00 427.00 m 360.00 461.00 l S Q
+q 0.720 0.780 0.840 RG 0.60 w 560.00 427.00 m 560.00 461.00 l S Q
+BT /F1 8.1 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 449.00 Tm 10 TL
+(Project aim achievement) Tj
+ET
+BT /F1 8.1 Tf 0.080 0.100 0.140 rg 1 0 0 1 214.00 449.00 Tm 10 TL
+(Strong) Tj
+ET
+BT /F1 8.1 Tf 0.080 0.100 0.140 rg 1 0 0 1 364.00 449.00 Tm 10 TL
+(Working multi-role desktop) Tj
+T*
+(system with persistent backend) Tj
+T*
+(and demonstrable workflows) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 393.00 786.00 34.00 re
+B
+Q
+q 0.720 0.780 0.840 RG 0.60 w 210.00 393.00 m 210.00 427.00 l S Q
+q 0.720 0.780 0.840 RG 0.60 w 360.00 393.00 m 360.00 427.00 l S Q
+q 0.720 0.780 0.840 RG 0.60 w 560.00 393.00 m 560.00 427.00 l S Q
+BT /F1 8.1 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 415.00 Tm 10 TL
+(Functional completeness) Tj
+ET
+BT /F1 8.1 Tf 0.080 0.100 0.140 rg 1 0 0 1 214.00 415.00 Tm 10 TL
+(Mostly achieved) Tj
+ET
+BT /F1 8.1 Tf 0.080 0.100 0.140 rg 1 0 0 1 364.00 415.00 Tm 10 TL
+(Core modules plus SDGP tenant) Tj
+T*
+(features implemented) Tj
+T*
+(successfully) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 359.00 786.00 34.00 re
+B
+Q
+q 0.720 0.780 0.840 RG 0.60 w 210.00 359.00 m 210.00 393.00 l S Q
+q 0.720 0.780 0.840 RG 0.60 w 360.00 359.00 m 360.00 393.00 l S Q
+q 0.720 0.780 0.840 RG 0.60 w 560.00 359.00 m 560.00 393.00 l S Q
+BT /F1 8.1 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 381.00 Tm 10 TL
+(Non-functional quality) Tj
+ET
+BT /F1 8.1 Tf 0.080 0.100 0.140 rg 1 0 0 1 214.00 381.00 Tm 10 TL
+(Good academic) Tj
+T*
+(standard) Tj
+ET
+BT /F1 8.1 Tf 0.080 0.100 0.140 rg 1 0 0 1 364.00 381.00 Tm 10 TL
+(Role controls, validation,) Tj
+T*
+(modular design, improved UI) Tj
+T*
+(consistency, and tests) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 325.00 786.00 34.00 re
+B
+Q
+q 0.720 0.780 0.840 RG 0.60 w 210.00 325.00 m 210.00 359.00 l S Q
+q 0.720 0.780 0.840 RG 0.60 w 360.00 325.00 m 360.00 359.00 l S Q
+q 0.720 0.780 0.840 RG 0.60 w 560.00 325.00 m 560.00 359.00 l S Q
+BT /F1 8.1 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 347.00 Tm 10 TL
+(Demonstration readiness) Tj
+ET
+BT /F1 8.1 Tf 0.080 0.100 0.140 rg 1 0 0 1 214.00 347.00 Tm 10 TL
+(Strong) Tj
+ET
+BT /F1 8.1 Tf 0.080 0.100 0.140 rg 1 0 0 1 364.00 347.00 Tm 10 TL
+(Expanded seed data, multiple) Tj
+T*
+(accounts, and polished UI for) Tj
+T*
+(presentation) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 306.00 786.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 313.00 Tm 13 TL
+(6. Strengths of the Final System) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 279.00 Tm 13 TL
+(- Broad functional coverage across administration, billing, maintenance, reporting, and tenant) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 50.00 266.00 Tm 13 TL
+(services.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 247.00 Tm 13 TL
+(- Clear role separation between admin, manager, staff, and tenant users.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 228.00 Tm 13 TL
+(- Successful implementation of the SDGP tenant dashboard extension.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 209.00 Tm 13 TL
+(- Modular structure that supported later enhancement without major redesign.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 190.00 Tm 13 TL
+(- Improved interface consistency and richer demo data for evidence and presentation.) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 164.00 786.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 171.00 Tm 13 TL
+(7. Limitations of the Final System) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 137.00 Tm 13 TL
+(- The application remains desktop-based and therefore lacks the accessibility of a web platform.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 118.00 Tm 13 TL
+(- Certain capabilities, such as card payments, are simulated rather than integrated with external) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 50.00 105.00 Tm 13 TL
+(services.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 86.00 Tm 13 TL
+(- Testing evidence is useful but not exhaustive, particularly for large-scale integration and) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 50.00 73.00 Tm 13 TL
+(performance testing.) Tj
+ET
+
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 3122 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 533.00 842.00 62.00 re
+f
+Q
+BT /F2 20 Tf 1.000 1.000 1.000 rg 1 0 0 1 28.00 557.00 Tm 20 TL
+(Evaluation and Lessons Learned) Tj
+ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 28.00 541.00 Tm 10 TL
+(Paragon Apartment Management System) Tj
+ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 758.00 541.00 Tm 10 TL
+(Page 4) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 485.00 Tm 13 TL
+(- Tkinter imposes interface design limits compared with modern front-end technologies.) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 459.00 786.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 466.00 Tm 13 TL
+(8. Lessons Learned) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 432.00 Tm 13 TL
+(- Requirements traceability makes later extension work easier and reduces rework.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 413.00 Tm 13 TL
+(- Layered and modular design improves maintainability and supports safer change.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 394.00 Tm 13 TL
+(- Demonstration readiness matters: realistic seed data and polished workflows improve perceived) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 50.00 381.00 Tm 13 TL
+(quality.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 362.00 Tm 13 TL
+(- Testing is most effective when carried out iteratively instead of being postponed until the end.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 343.00 Tm 13 TL
+(- Document organisation and specification tracking are essential near submission deadlines.) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 317.00 786.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 324.00 Tm 13 TL
+(9. Future Improvements) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 290.00 Tm 13 TL
+(- Migration to a web-based platform for broader accessibility and a more modern interface.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 271.00 Tm 13 TL
+(- Integration with real payment, notification, and document-generation services.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 252.00 Tm 13 TL
+(- Expanded automated testing, including broader integration and user acceptance testing.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 233.00 Tm 13 TL
+(- Richer reporting and analytics for management-level decision support.) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 207.00 786.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 214.00 Tm 13 TL
+(10. Conclusion) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 180.00 Tm 13 TL
+(Overall, the Paragon Apartment Management System can be evaluated as a successful academic software) Tj
+T*
+(development outcome. The project achieved its main aim, addressed the SDGP extension requirements, and) Tj
+T*
+(delivered a functioning system with meaningful technical depth. At the same time, the work highlighted) Tj
+T*
+(important lessons in requirements management, modular design, iterative testing, and delivery planning,) Tj
+T*
+(all of which provide a strong foundation for future development.) Tj
+ET
+
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Type /Pages /Kids [2 0 R 4 0 R 6 0 R 8 0 R] /Count 4 >>
+endobj
+10 0 obj
+<< /Type /Catalog /Pages 9 0 R >>
+endobj
+11 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+12 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000003478 00000 n 
+0000003616 00000 n 
+0000006162 00000 n 
+0000006300 00000 n 
+0000011655 00000 n 
+0000011793 00000 n 
+0000014967 00000 n 
+0000015105 00000 n 
+0000015180 00000 n 
+0000015230 00000 n 
+0000015301 00000 n 
+trailer
+<< /Size 13 /Root 10 0 R >>
+startxref
+15377
+%%EOF

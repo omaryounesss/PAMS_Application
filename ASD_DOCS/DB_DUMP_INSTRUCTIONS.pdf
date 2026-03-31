@@ -1,0 +1,121 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 2424 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 780.00 595.00 62.00 re
+f
+Q
+BT /F2 18 Tf 1.000 1.000 1.000 rg 1 0 0 1 48.00 804.00 Tm (Database Dump Instructions) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 48.00 788.00 Tm (Paragon Apartment Management System) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 511.00 788.00 Tm (Page 1) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 754.00 499.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 56.00 761.00 Tm (1. Purpose) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 48.00 742.00 Tm 13 TL
+(This document explains how to export the MySQL database used by the Paragon Apartment) Tj
+T*
+(Management System so that a database dump can be included in the final ASD submission) Tj
+T*
+(package.) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 667.00 499.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 56.00 674.00 Tm (2. Export Requirement) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 48.00 655.00 Tm 13 TL
+(After the database has been created and seeded using the bootstrap script, a SQL dump) Tj
+T*
+(should be generated and included in the final submission ZIP as evidence of the database) Tj
+T*
+(structure and data.) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 580.00 499.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 56.00 587.00 Tm (3. Standard Export Command) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 542.00 499.00 26.00 re
+B
+Q
+BT /F2 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 58.00 551.00 Tm (mysqldump -u root -p pams > pams_dump.sql) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 504.00 499.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 56.00 511.00 Tm (4. Alternative Host and Port Command) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 466.00 499.00 26.00 re
+B
+Q
+BT /F2 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 58.00 475.00 Tm (mysqldump -h 127.0.0.1 -P 3306 -u root -p pams > pams_dump.sql) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 428.00 499.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 56.00 435.00 Tm (5. Submission Note) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 48.00 416.00 Tm 13 TL
+(The generated file should be saved as pams_dump.sql and placed inside the final ASD) Tj
+T*
+(submission package together with the source code, diagrams, testing evidence, and) Tj
+T*
+(supporting documents.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000257 00000 n 
+0000002732 00000 n 
+0000002802 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2877
+%%EOF

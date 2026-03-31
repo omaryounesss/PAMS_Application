@@ -1,0 +1,23 @@
+digraph ClassDiagram {
+  graph [rankdir=LR, bgcolor="white", fontname="Helvetica", fontsize=12, splines=ortho, nodesep=0.5, ranksep=1.0];
+  node [shape=record, fontname="Helvetica", fontsize=10, style="filled", fillcolor="#eff6ff", color="#64748b"];
+  edge [fontname="Helvetica", fontsize=9, color="#334155", arrowsize=0.8];
+
+  City [label="{City|+id: int\l+name: string\l}"];
+  User [label="{User|+id: int\l+username: string\l+fullName: string\l+role: string\l+cityId: int\l}"];
+  Tenant [label="{Tenant|+id: int\l+niNumber: string\l+firstName: string\l+lastName: string\l+phone: string\l+email: string\l}"];
+  Apartment [label="{Apartment|+id: int\l+code: string\l+type: string\l+rooms: int\l+monthlyRent: decimal\l+status: string\l}"];
+  Lease [label="{Lease|+id: int\l+startDate: date\l+endDate: date\l+monthlyRent: decimal\l+deposit: decimal\l+status: string\l}"];
+  Maintenance [label="{MaintenanceRequest|+id: int\l+title: string\l+priority: string\l+status: string\l+cost: decimal\l}"];
+  Invoice [label="{Invoice|+id: int\l+billingMonth: string\l+dueDate: date\l+amount: decimal\l+status: string\l}"];
+  Payment [label="{Payment|+id: int\l+paidOn: date\l+amount: decimal\l+method: string\l+receiptNo: string\l}"];
+
+  City -> User [label="1..*", taillabel="1", headlabel="*", dir=both, arrowtail=none, arrowhead=none];
+  City -> Tenant [label="1..*", taillabel="1", headlabel="*", dir=both, arrowtail=none, arrowhead=none];
+  City -> Apartment [label="1..*", taillabel="1", headlabel="*", dir=both, arrowtail=none, arrowhead=none];
+  Tenant -> Lease [label="1..*", taillabel="1", headlabel="*", dir=both, arrowtail=none, arrowhead=none];
+  Apartment -> Lease [label="1..*", taillabel="1", headlabel="*", dir=both, arrowtail=none, arrowhead=none];
+  Apartment -> Maintenance [label="1..*", taillabel="1", headlabel="*", dir=both, arrowtail=none, arrowhead=none];
+  Lease -> Invoice [label="1..*", taillabel="1", headlabel="*", dir=both, arrowtail=none, arrowhead=none];
+  Invoice -> Payment [label="1..*", taillabel="1", headlabel="*", dir=both, arrowtail=none, arrowhead=none];
+}

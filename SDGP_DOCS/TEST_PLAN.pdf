@@ -1,0 +1,697 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R] /Count 5 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 13 0 R /F2 14 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 4172 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 533.00 842.00 62.00 re
+f
+Q
+BT /F2 20 Tf 1.000 1.000 1.000 rg 1 0 0 1 28.00 557.00 Tm (Test Plan) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 28.00 541.00 Tm (Paragon Apartment Management System) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 758.00 541.00 Tm (Page 1) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 478.00 786.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 485.00 Tm (1. Overview) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 466.00 Tm 13 TL
+(This test plan defines the intended testing approach for the Paragon Apartment Management System. It) Tj
+T*
+(identifies the scope of testing, the principal testing methods, the target environment, and the planned) Tj
+T*
+(test scenarios required to evaluate the correctness, usability, reliability, and requirement coverage of) Tj
+T*
+(the system.) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 378.00 786.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 385.00 Tm (2. Test Objectives) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 366.00 Tm 13 TL
+(? To verify that the implemented system satisfies the validated functional and non-functional) Tj
+T*
+(requirements.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 334.00 Tm 13 TL
+(? To confirm that role-based access restrictions operate correctly for staff, managers,) Tj
+T*
+(administrators, and tenants.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 302.00 Tm 13 TL
+(? To identify defects in business rules, validation, data handling, and workflow behaviour) Tj
+T*
+(before final submission.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 270.00 Tm 13 TL
+(? To provide a structured basis for both automated testing and manual user-interface testing.) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 229.00 786.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 236.00 Tm (3. Test Scope) Tj ET
+q
+0.850 0.900 0.960 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 193.00 786.00 24.00 re
+B
+Q
+BT /F2 8.4 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 201.00 Tm (Area) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 178.00 193.00 m 178.00 217.00 l S Q
+BT /F2 8.4 Tf 0.080 0.100 0.140 rg 1 0 0 1 182.00 201.00 Tm (Description) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 152.00 786.00 41.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 179.00 Tm (In Scope) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 178.00 152.00 m 178.00 193.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 182.00 179.00 Tm (Authentication, role-based access, tenants, apartments, leases, complaints,) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 182.00 168.00 Tm (maintenance, billing, reports, tenant dashboard, validation, and seeded demo) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 182.00 157.00 Tm (scenarios.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 122.00 786.00 30.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 138.00 Tm (Out of Scope) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 178.00 122.00 m 178.00 152.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 182.00 138.00 Tm (Production deployment concerns, external payment gateway integration, and) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 182.00 127.00 Tm (large-scale performance testing beyond the academic project context.) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 90.00 786.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 97.00 Tm (4. Test Environment) Tj ET
+q
+0.850 0.900 0.960 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 54.00 786.00 24.00 re
+B
+Q
+BT /F2 8.4 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 62.00 Tm (Item) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 188.00 54.00 m 188.00 78.00 l S Q
+BT /F2 8.4 Tf 0.080 0.100 0.140 rg 1 0 0 1 192.00 62.00 Tm (Description) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 30.00 786.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 40.00 Tm (Application Type) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 188.00 30.00 m 188.00 54.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 192.00 40.00 Tm (Python desktop application using Tkinter) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 13 0 R /F2 14 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2073 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 533.00 842.00 62.00 re
+f
+Q
+BT /F2 20 Tf 1.000 1.000 1.000 rg 1 0 0 1 28.00 557.00 Tm (Test Plan) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 28.00 541.00 Tm (Paragon Apartment Management System) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 758.00 541.00 Tm (Page 2) Tj ET
+q
+0.850 0.900 0.960 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 476.00 786.00 24.00 re
+B
+Q
+BT /F2 8.4 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 484.00 Tm (Item) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 188.00 476.00 m 188.00 500.00 l S Q
+BT /F2 8.4 Tf 0.080 0.100 0.140 rg 1 0 0 1 192.00 484.00 Tm (Description) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 452.00 786.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 462.00 Tm (Database) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 188.00 452.00 m 188.00 476.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 192.00 462.00 Tm (MySQL) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 428.00 786.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 438.00 Tm (Main Runtime) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 188.00 428.00 m 188.00 452.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 192.00 438.00 Tm (Python 3 environment used in development and testing) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 398.00 786.00 30.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 414.00 Tm (Supporting Tools) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 188.00 398.00 m 188.00 428.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 192.00 414.00 Tm (unittest, terminal execution, seeded database scenarios, manual UI) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 192.00 403.00 Tm (walkthroughs) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 374.00 786.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 384.00 Tm (Target Use Context) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 188.00 374.00 m 188.00 398.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 192.00 384.00 Tm (Local desktop execution for demonstration and academic submission) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 13 0 R /F2 14 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 7641 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 533.00 842.00 62.00 re
+f
+Q
+BT /F2 20 Tf 1.000 1.000 1.000 rg 1 0 0 1 28.00 557.00 Tm (Test Plan) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 28.00 541.00 Tm (Paragon Apartment Management System) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 758.00 541.00 Tm (Page 3) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 478.00 786.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 485.00 Tm (5. Test Strategy) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 466.00 Tm 13 TL
+(? Automated testing is used to verify core logic, validation rules, and selected business) Tj
+T*
+(rules in a repeatable manner.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 434.00 Tm 13 TL
+(? Manual testing is used to evaluate user interface behaviour, role-specific workflows, data) Tj
+T*
+(visibility, and cross-module interactions.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 402.00 Tm 13 TL
+(? Test data is supported through seeded multi-city records to ensure realistic scenarios for) Tj
+T*
+(invoices, maintenance requests, and tenant self-service features.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 370.00 Tm 13 TL
+(? Testing is performed iteratively rather than postponed until the final project stage,) Tj
+T*
+(allowing defects to be corrected earlier in development.) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 316.00 786.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 323.00 Tm (6. Entry and Exit Criteria) Tj ET
+q
+0.850 0.900 0.960 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 280.00 786.00 24.00 re
+B
+Q
+BT /F2 8.4 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 288.00 Tm (Criteria Type) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 188.00 280.00 m 188.00 304.00 l S Q
+BT /F2 8.4 Tf 0.080 0.100 0.140 rg 1 0 0 1 192.00 288.00 Tm (Definition) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 250.00 786.00 30.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 266.00 Tm (Entry Criteria) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 188.00 250.00 m 188.00 280.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 192.00 266.00 Tm (Core modules implemented; database schema available; seed data prepared;) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 192.00 255.00 Tm (target features accessible for testing.) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 220.00 786.00 30.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 236.00 Tm (Exit Criteria) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 188.00 220.00 m 188.00 250.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 192.00 236.00 Tm (Planned key test cases executed; critical defects resolved or documented;) Tj ET
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 192.00 225.00 Tm (evidence gathered for report and presentation purposes.) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 188.00 786.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 195.00 Tm (7. Planned Test Cases) Tj ET
+q
+0.850 0.900 0.960 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 152.00 786.00 24.00 re
+B
+Q
+BT /F2 8.4 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 160.00 Tm (ID) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 70.00 152.00 m 70.00 176.00 l S Q
+BT /F2 8.4 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 160.00 Tm (Feature Area) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 190.00 152.00 m 190.00 176.00 l S Q
+BT /F2 8.4 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 160.00 Tm (Test Scenario) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 425.00 152.00 m 425.00 176.00 l S Q
+BT /F2 8.4 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 160.00 Tm (Expected Outcome) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 760.00 152.00 m 760.00 176.00 l S Q
+BT /F2 8.4 Tf 0.080 0.100 0.140 rg 1 0 0 1 764.00 160.00 Tm (Priority) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 122.00 786.00 30.00 re
+B
+Q
+BT /F2 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 138.00 Tm (TP01) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 70.00 122.00 m 70.00 152.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 138.00 Tm (Login and) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 127.00 Tm (authentication) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 190.00 122.00 m 190.00 152.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 138.00 Tm (Enter valid and invalid) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 127.00 Tm (credentials) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 425.00 122.00 m 425.00 152.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 138.00 Tm (Access granted only for valid users; invalid) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 127.00 Tm (login rejected appropriately.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 760.00 122.00 m 760.00 152.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 764.00 138.00 Tm (High) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 92.00 786.00 30.00 re
+B
+Q
+BT /F2 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 108.00 Tm (TP02) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 70.00 92.00 m 70.00 122.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 108.00 Tm (Role restriction) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 97.00 Tm (check) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 190.00 92.00 m 190.00 122.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 108.00 Tm (Login using different roles) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 425.00 92.00 m 425.00 122.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 108.00 Tm (Each role sees only the features and data) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 97.00 Tm (permitted to that role.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 760.00 92.00 m 760.00 122.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 764.00 108.00 Tm (High) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 62.00 786.00 30.00 re
+B
+Q
+BT /F2 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 78.00 Tm (TP03) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 70.00 62.00 m 70.00 92.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 78.00 Tm (Tenant) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 67.00 Tm (registration) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 190.00 62.00 m 190.00 92.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 78.00 Tm (Register a tenant with valid) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 67.00 Tm (details) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 425.00 62.00 m 425.00 92.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 78.00 Tm (Tenant record is created successfully and) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 67.00 Tm (appears in the tenant list.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 760.00 62.00 m 760.00 92.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 764.00 78.00 Tm (High) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 32.00 786.00 30.00 re
+B
+Q
+BT /F2 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 48.00 Tm (TP04) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 70.00 32.00 m 70.00 62.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 48.00 Tm (Apartment) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 37.00 Tm (registration) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 190.00 32.00 m 190.00 62.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 48.00 Tm (Create a new apartment record) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 425.00 32.00 m 425.00 62.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 48.00 Tm (Apartment is saved correctly with city, status,) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 37.00 Tm (and rent information.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 760.00 32.00 m 760.00 62.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 764.00 48.00 Tm (Medium) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 13 0 R /F2 14 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 12743 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 533.00 842.00 62.00 re
+f
+Q
+BT /F2 20 Tf 1.000 1.000 1.000 rg 1 0 0 1 28.00 557.00 Tm (Test Plan) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 28.00 541.00 Tm (Paragon Apartment Management System) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 758.00 541.00 Tm (Page 4) Tj ET
+q
+0.850 0.900 0.960 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 476.00 786.00 24.00 re
+B
+Q
+BT /F2 8.4 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 484.00 Tm (ID) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 70.00 476.00 m 70.00 500.00 l S Q
+BT /F2 8.4 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 484.00 Tm (Feature Area) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 190.00 476.00 m 190.00 500.00 l S Q
+BT /F2 8.4 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 484.00 Tm (Test Scenario) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 425.00 476.00 m 425.00 500.00 l S Q
+BT /F2 8.4 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 484.00 Tm (Expected Outcome) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 760.00 476.00 m 760.00 500.00 l S Q
+BT /F2 8.4 Tf 0.080 0.100 0.140 rg 1 0 0 1 764.00 484.00 Tm (Priority) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 446.00 786.00 30.00 re
+B
+Q
+BT /F2 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 462.00 Tm (TP05) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 70.00 446.00 m 70.00 476.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 462.00 Tm (Early leave) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 451.00 Tm (processing) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 190.00 446.00 m 190.00 476.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 462.00 Tm (Submit an early leave request with) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 451.00 Tm (insufficient notice) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 425.00 446.00 m 425.00 476.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 462.00 Tm (Request is recorded and penalty logic is applied) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 451.00 Tm (according to the rule.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 760.00 446.00 m 760.00 476.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 764.00 462.00 Tm (High) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 416.00 786.00 30.00 re
+B
+Q
+BT /F2 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 432.00 Tm (TP06) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 70.00 416.00 m 70.00 446.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 432.00 Tm (Complaint logging) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 190.00 416.00 m 190.00 446.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 432.00 Tm (Create complaint from staff or) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 421.00 Tm (tenant pathway) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 425.00 416.00 m 425.00 446.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 432.00 Tm (Complaint is stored with correct tenant linkage) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 421.00 Tm (and status.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 760.00 416.00 m 760.00 446.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 764.00 432.00 Tm (Medium) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 386.00 786.00 30.00 re
+B
+Q
+BT /F2 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 402.00 Tm (TP07) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 70.00 386.00 m 70.00 416.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 402.00 Tm (Maintenance) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 391.00 Tm (lifecycle) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 190.00 386.00 m 190.00 416.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 402.00 Tm (Create, schedule, update, and) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 391.00 Tm (resolve a maintenance request) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 425.00 386.00 m 425.00 416.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 402.00 Tm (Status, schedule, notes, hours, and cost update) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 391.00 Tm (correctly.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 760.00 386.00 m 760.00 416.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 764.00 402.00 Tm (High) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 356.00 786.00 30.00 re
+B
+Q
+BT /F2 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 372.00 Tm (TP08) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 70.00 356.00 m 70.00 386.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 372.00 Tm (Invoice creation) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 190.00 356.00 m 190.00 386.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 372.00 Tm (Create invoice for active lease) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 425.00 356.00 m 425.00 386.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 372.00 Tm (Invoice record is created with correct due date,) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 361.00 Tm (month, amount, and status.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 760.00 356.00 m 760.00 386.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 764.00 372.00 Tm (High) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 326.00 786.00 30.00 re
+B
+Q
+BT /F2 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 342.00 Tm (TP09) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 70.00 326.00 m 70.00 356.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 342.00 Tm (Payment recording) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 190.00 326.00 m 190.00 356.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 342.00 Tm (Record full or partial payment) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 425.00 326.00 m 425.00 356.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 342.00 Tm (Payment record is stored and invoice status) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 331.00 Tm (updates correctly.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 760.00 326.00 m 760.00 356.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 764.00 342.00 Tm (High) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 296.00 786.00 30.00 re
+B
+Q
+BT /F2 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 312.00 Tm (TP10) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 70.00 296.00 m 70.00 326.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 312.00 Tm (Late invoice) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 301.00 Tm (update) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 190.00 296.00 m 190.00 326.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 312.00 Tm (Run overdue invoice process after) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 301.00 Tm (due date) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 425.00 296.00 m 425.00 326.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 312.00 Tm (Applicable invoices are marked late correctly.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 760.00 296.00 m 760.00 326.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 764.00 312.00 Tm (Medium) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 266.00 786.00 30.00 re
+B
+Q
+BT /F2 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 282.00 Tm (TP11) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 70.00 266.00 m 70.00 296.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 282.00 Tm (Management reports) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 190.00 266.00 m 190.00 296.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 282.00 Tm (Generate occupancy, financial, and) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 271.00 Tm (maintenance reports) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 425.00 266.00 m 425.00 296.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 282.00 Tm (Report outputs display correct scoped) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 271.00 Tm (operational data.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 760.00 266.00 m 760.00 296.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 764.00 282.00 Tm (Medium) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 236.00 786.00 30.00 re
+B
+Q
+BT /F2 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 252.00 Tm (TP12) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 70.00 236.00 m 70.00 266.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 252.00 Tm (Tenant dashboard) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 241.00 Tm (visibility) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 190.00 236.00 m 190.00 266.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 252.00 Tm (Login as tenant user) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 425.00 236.00 m 425.00 266.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 252.00 Tm (Tenant sees only their own records and self-) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 241.00 Tm (service functions.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 760.00 236.00 m 760.00 266.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 764.00 252.00 Tm (High) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 206.00 786.00 30.00 re
+B
+Q
+BT /F2 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 222.00 Tm (TP13) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 70.00 206.00 m 70.00 236.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 222.00 Tm (Tenant card) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 211.00 Tm (payment simulation) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 190.00 206.00 m 190.00 236.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 222.00 Tm (Submit valid simulated card) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 211.00 Tm (payment) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 425.00 206.00 m 425.00 236.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 222.00 Tm (Payment succeeds and tenant invoice/payment view) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 211.00 Tm (updates correctly.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 760.00 206.00 m 760.00 236.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 764.00 222.00 Tm (High) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 165.00 786.00 41.00 re
+B
+Q
+BT /F2 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 192.00 Tm (TP14) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 70.00 165.00 m 70.00 206.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 192.00 Tm (Tenant repair) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 181.00 Tm (request and) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 170.00 Tm (progress) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 190.00 165.00 m 190.00 206.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 192.00 Tm (Tenant submits repair request and) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 181.00 Tm (views progress) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 425.00 165.00 m 425.00 206.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 192.00 Tm (Repair request is stored and progress is shown) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 181.00 Tm (correctly.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 760.00 165.00 m 760.00 206.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 764.00 192.00 Tm (High) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 135.00 786.00 30.00 re
+B
+Q
+BT /F2 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 151.00 Tm (TP15) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 70.00 135.00 m 70.00 165.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 151.00 Tm (Tenant charts) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 190.00 135.00 m 190.00 165.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 151.00 Tm (Load tenant chart views) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 425.00 135.00 m 425.00 165.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 151.00 Tm (Graphs display payment-related information using) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 140.00 Tm (the tenant scope only.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 760.00 135.00 m 760.00 165.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 764.00 151.00 Tm (Medium) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 105.00 786.00 30.00 re
+B
+Q
+BT /F2 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 121.00 Tm (TP16) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 70.00 105.00 m 70.00 135.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 121.00 Tm (Validation and) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 74.00 110.00 Tm (boundary testing) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 190.00 105.00 m 190.00 135.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 121.00 Tm (Use invalid NI, date, amount,) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 194.00 110.00 Tm (email, or empty required fields) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 425.00 105.00 m 425.00 135.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 121.00 Tm (Invalid inputs are rejected with appropriate) Tj ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 429.00 110.00 Tm (error handling.) Tj ET
+q 0.720 0.780 0.840 RG 0.60 w 760.00 105.00 m 760.00 135.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 764.00 121.00 Tm (High) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 13 0 R /F2 14 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 891 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 533.00 842.00 62.00 re
+f
+Q
+BT /F2 20 Tf 1.000 1.000 1.000 rg 1 0 0 1 28.00 557.00 Tm (Test Plan) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 28.00 541.00 Tm (Paragon Apartment Management System) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 758.00 541.00 Tm (Page 5) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+28.00 478.00 786.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 485.00 Tm (8. Summary) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 466.00 Tm 13 TL
+(The test plan provides a structured framework for verifying that the Paragon Apartment Management System) Tj
+T*
+(is functionally correct, role-aware, and suitable for academic demonstration. By combining automated) Tj
+T*
+(checks with realistic manual workflow testing, the plan supports both technical validation and final) Tj
+T*
+(submission evidence.) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+14 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000146 00000 n 
+0000000284 00000 n 
+0000004507 00000 n 
+0000004645 00000 n 
+0000006769 00000 n 
+0000006907 00000 n 
+0000014599 00000 n 
+0000014738 00000 n 
+0000027534 00000 n 
+0000027674 00000 n 
+0000028616 00000 n 
+0000028687 00000 n 
+trailer
+<< /Size 15 /Root 1 0 R >>
+startxref
+28763
+%%EOF

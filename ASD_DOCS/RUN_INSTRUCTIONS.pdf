@@ -1,0 +1,367 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 7 0 R /F2 8 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 5993 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 780.00 595.00 62.00 re
+f
+Q
+BT /F2 18 Tf 1.000 1.000 1.000 rg 1 0 0 1 48.00 804.00 Tm (Run and Setup Instructions) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 48.00 788.00 Tm (Paragon Apartment Management System) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 511.00 788.00 Tm (Page 1) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 754.00 499.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 56.00 761.00 Tm (1. Purpose) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 48.00 742.00 Tm 13 TL
+(This document provides the steps required to install dependencies, initialise the) Tj
+T*
+(database, run the Paragon Apartment Management System, and verify that the application) Tj
+T*
+(is functioning correctly for demonstration and submission purposes.) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 667.00 499.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 56.00 674.00 Tm (2. Prerequisites) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 58.00 655.00 Tm 13 TL
+(? Python 3 installed on the target machine.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 58.00 636.00 Tm 13 TL
+(? MySQL server installed and running.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 58.00 617.00 Tm 13 TL
+(? The project folder extracted with all source files present.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 58.00 598.00 Tm 13 TL
+(? Access to the command line or terminal environment.) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 557.00 499.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 56.00 564.00 Tm (3. Default Database Configuration) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 48.00 545.00 Tm 13 TL
+(The system has been configured to use the following default database settings during) Tj
+T*
+(development and testing:) Tj
+ET
+q
+0.850 0.900 0.960 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 485.00 499.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 52.00 493.00 Tm (Setting) Tj ET
+q 0.720 0.780 0.840 RG 0.6 w 208.00 485.00 m 208.00 509.00 l S Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 212.00 493.00 Tm (Value) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 461.00 499.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 52.00 471.00 Tm (Host) Tj ET
+q 0.720 0.780 0.840 RG 0.6 w 208.00 461.00 m 208.00 485.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 212.00 471.00 Tm (127.0.0.1) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 437.00 499.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 52.00 447.00 Tm (Port) Tj ET
+q 0.720 0.780 0.840 RG 0.6 w 208.00 437.00 m 208.00 461.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 212.00 447.00 Tm (3306) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 413.00 499.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 52.00 423.00 Tm (Username) Tj ET
+q 0.720 0.780 0.840 RG 0.6 w 208.00 413.00 m 208.00 437.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 212.00 423.00 Tm (root) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 389.00 499.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 52.00 399.00 Tm (Password) Tj ET
+q 0.720 0.780 0.840 RG 0.6 w 208.00 389.00 m 208.00 413.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 212.00 399.00 Tm (Saboora.1) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 365.00 499.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 52.00 375.00 Tm (Database Name) Tj ET
+q 0.720 0.780 0.840 RG 0.6 w 208.00 365.00 m 208.00 389.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 212.00 375.00 Tm (pams) Tj ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 333.00 499.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 56.00 340.00 Tm (4. Installation and Startup Steps) Tj ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 58.00 321.00 Tm 13 TL
+(? Install required packages using: pip install -r requirements.txt) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 58.00 302.00 Tm 13 TL
+(? Ensure that the MySQL service is running and accessible using the configured) Tj
+T*
+(credentials.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 58.00 270.00 Tm 13 TL
+(? Initialise the database schema and seed data using: python3) Tj
+T*
+(scripts/bootstrap_db.py) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 58.00 238.00 Tm 13 TL
+(? Launch the desktop application using: python3 main.py) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 58.00 219.00 Tm 13 TL
+(? Run automated tests, if required, using: python3 -m unittest discover -s tests -p) Tj
+T*
+("test_*.py") Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 165.00 499.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 56.00 172.00 Tm (5. Seed Account Credentials) Tj ET
+q
+0.850 0.900 0.960 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 129.00 499.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 52.00 137.00 Tm (Username) Tj ET
+q 0.720 0.780 0.840 RG 0.6 w 268.00 129.00 m 268.00 153.00 l S Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 272.00 137.00 Tm (Password) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 105.00 499.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 52.00 115.00 Tm (admin_bristol) Tj ET
+q 0.720 0.780 0.840 RG 0.6 w 268.00 105.00 m 268.00 129.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 272.00 115.00 Tm (Admin@123) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 81.00 499.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 52.00 91.00 Tm (frontdesk_bristol) Tj ET
+q 0.720 0.780 0.840 RG 0.6 w 268.00 81.00 m 268.00 105.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 272.00 91.00 Tm (Front@123) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 57.00 499.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 52.00 67.00 Tm (finance_bristol) Tj ET
+q 0.720 0.780 0.840 RG 0.6 w 268.00 57.00 m 268.00 81.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 272.00 67.00 Tm (Finance@123) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 7 0 R /F2 8 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 4014 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 780.00 595.00 62.00 re
+f
+Q
+BT /F2 18 Tf 1.000 1.000 1.000 rg 1 0 0 1 48.00 804.00 Tm (Run and Setup Instructions) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 48.00 788.00 Tm (Paragon Apartment Management System) Tj ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 511.00 788.00 Tm (Page 2) Tj ET
+q
+0.850 0.900 0.960 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 752.00 499.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 52.00 760.00 Tm (Username) Tj ET
+q 0.720 0.780 0.840 RG 0.6 w 268.00 752.00 m 268.00 776.00 l S Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 272.00 760.00 Tm (Password) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 728.00 499.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 52.00 738.00 Tm (maintenance_bristol) Tj ET
+q 0.720 0.780 0.840 RG 0.6 w 268.00 728.00 m 268.00 752.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 272.00 738.00 Tm (Maintain@123) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 704.00 499.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 52.00 714.00 Tm (manager_uk) Tj ET
+q 0.720 0.780 0.840 RG 0.6 w 268.00 704.00 m 268.00 728.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 272.00 714.00 Tm (Manager@123) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 680.00 499.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 52.00 690.00 Tm (admin_cardiff) Tj ET
+q 0.720 0.780 0.840 RG 0.6 w 268.00 680.00 m 268.00 704.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 272.00 690.00 Tm (Admin@123) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 656.00 499.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 52.00 666.00 Tm (tenant_hamdy) Tj ET
+q 0.720 0.780 0.840 RG 0.6 w 268.00 656.00 m 268.00 680.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 272.00 666.00 Tm (Tenant@123) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 632.00 499.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 52.00 642.00 Tm (tenant_alabweh) Tj ET
+q 0.720 0.780 0.840 RG 0.6 w 268.00 632.00 m 268.00 656.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 272.00 642.00 Tm (Tenant@123) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 608.00 499.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 52.00 618.00 Tm (tenant_younes) Tj ET
+q 0.720 0.780 0.840 RG 0.6 w 268.00 608.00 m 268.00 632.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 272.00 618.00 Tm (Tenant@123) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 584.00 499.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 52.00 594.00 Tm (tenant_sharaf) Tj ET
+q 0.720 0.780 0.840 RG 0.6 w 268.00 584.00 m 268.00 608.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 272.00 594.00 Tm (Tenant@123) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 560.00 499.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 52.00 570.00 Tm (tenant_nadine) Tj ET
+q 0.720 0.780 0.840 RG 0.6 w 268.00 560.00 m 268.00 584.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 272.00 570.00 Tm (Tenant@123) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 536.00 499.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 52.00 546.00 Tm (tenant_yousef) Tj ET
+q 0.720 0.780 0.840 RG 0.6 w 268.00 536.00 m 268.00 560.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 272.00 546.00 Tm (Tenant@123) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 512.00 499.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 52.00 522.00 Tm (tenant_mariam) Tj ET
+q 0.720 0.780 0.840 RG 0.6 w 268.00 512.00 m 268.00 536.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 272.00 522.00 Tm (Tenant@123) Tj ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.6 w
+48.00 488.00 499.00 24.00 re
+B
+Q
+BT /F2 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 52.00 498.00 Tm (tenant_nour) Tj ET
+q 0.720 0.780 0.840 RG 0.6 w 268.00 488.00 m 268.00 512.00 l S Q
+BT /F1 8.8 Tf 0.080 0.100 0.140 rg 1 0 0 1 272.00 498.00 Tm (Tenant@123) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+8 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000263 00000 n 
+0000006307 00000 n 
+0000006443 00000 n 
+0000010508 00000 n 
+0000010578 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+10653
+%%EOF

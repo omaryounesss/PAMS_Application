@@ -1,0 +1,488 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Length 3417 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 533.00 842.00 62.00 re
+f
+Q
+BT /F2 18 Tf 1.000 1.000 1.000 rg 1 0 0 1 28.00 557.00 Tm 20 TL
+(Safety, Ethical, Legal, and Sustainability Discussion) Tj
+ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 28.00 541.00 Tm 10 TL
+(Paragon Apartment Management System) Tj
+ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 758.00 541.00 Tm 10 TL
+(Page 1) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.60 w
+28.00 478.00 786.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 485.00 Tm 13 TL
+(1. Overview) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 451.00 Tm 13 TL
+(This section discusses the principal safety, ethical, legal, and sustainability considerations) Tj
+T*
+(associated with the design and implementation of the Paragon Apartment Management System. Although the) Tj
+T*
+(project was developed as an academic desktop application, it still manages sensitive tenant, billing,) Tj
+T*
+(and operational data, so these considerations remain important to the quality and responsibility of the) Tj
+T*
+(final solution.) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.60 w
+28.00 371.00 786.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 378.00 Tm 13 TL
+(2. Safety Considerations) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 344.00 Tm 13 TL
+(In software terms, safety relates to reducing the risk of harm, error, or misuse arising from the) Tj
+T*
+(operation of the system. Within the Paragon Apartment Management System, safety is mainly concerned with) Tj
+T*
+(the accuracy of records, the clarity of interfaces, and the prevention of actions that may negatively) Tj
+T*
+(affect tenants, staff, or apartment operations.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 284.00 Tm 13 TL
+(- Input validation reduces the chance of incorrect data being stored for tenants, leases,) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 50.00 271.00 Tm 13 TL
+(invoices, payments, and maintenance requests.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 250.00 Tm 13 TL
+(- Role-based access control helps prevent unauthorised users from performing administrative or) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 50.00 237.00 Tm 13 TL
+(sensitive operational actions.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 216.00 Tm 13 TL
+(- Clear tab-based navigation and structured forms reduce the likelihood of user confusion during) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 50.00 203.00 Tm 13 TL
+(live operation.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 182.00 Tm 13 TL
+(- Maintenance and billing workflows make operational status visible, helping users avoid) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 50.00 169.00 Tm 13 TL
+(overlooking unresolved issues or late balances.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 148.00 Tm 13 TL
+(The system is not safety-critical in the same sense as medical or industrial software. However, errors) Tj
+T*
+(in housing management software can still affect people materially, for example through incorrect) Tj
+T*
+(billing, mishandled repairs, or inappropriate access to personal information. For that reason,) Tj
+T*
+(dependable validation and permission control remain important.) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.60 w
+28.00 81.00 786.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 88.00 Tm 13 TL
+(3. Ethical Considerations) Tj
+ET
+
+endstream
+endobj
+2 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> /Contents 1 0 R >>
+endobj
+3 0 obj
+<< /Length 3396 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 533.00 842.00 62.00 re
+f
+Q
+BT /F2 18 Tf 1.000 1.000 1.000 rg 1 0 0 1 28.00 557.00 Tm 20 TL
+(Safety, Ethical, Legal, and Sustainability Discussion) Tj
+ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 28.00 541.00 Tm 10 TL
+(Paragon Apartment Management System) Tj
+ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 758.00 541.00 Tm 10 TL
+(Page 2) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 485.00 Tm 13 TL
+(The project raises several ethical issues connected to privacy, fairness, user trust, and responsible) Tj
+T*
+(handling of data. A system that stores tenant identities, contact details, lease information, and) Tj
+T*
+(payment history must be designed in a way that respects individuals and avoids unnecessary exposure of) Tj
+T*
+(private information.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 425.00 Tm 13 TL
+(- Tenant information should only be visible to authorised users with a legitimate operational) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 50.00 412.00 Tm 13 TL
+(reason to access it.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 391.00 Tm 13 TL
+(- The system should not permit one tenant to view another tenant's private financial or complaint) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 50.00 378.00 Tm 13 TL
+(data.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 357.00 Tm 13 TL
+(- Role design should promote fair and proportionate access rather than granting excessive) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 50.00 344.00 Tm 13 TL
+(privileges by default.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 323.00 Tm 13 TL
+(- Simulated payment features must be clearly understood as academic demonstrations rather than) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 50.00 310.00 Tm 13 TL
+(real financial processing.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 289.00 Tm 13 TL
+(An ethical system should also support transparency. Users should understand what kind of information is) Tj
+T*
+(stored, who can access it, and why certain permissions exist. Even in a coursework prototype, the design) Tj
+T*
+(should reflect responsible thinking about trust and digital accountability.) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.60 w
+28.00 235.00 786.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 242.00 Tm 13 TL
+(4. Legal Considerations) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 208.00 Tm 13 TL
+(The main legal consideration for this system is the handling of personal data. Because the application) Tj
+T*
+(stores names, phone numbers, email addresses, tenancy information, and payment-related records, it falls) Tj
+T*
+(within the type of data processing normally governed by data protection law, including UK GDPR) Tj
+T*
+(principles and the Data Protection Act 2018.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 148.00 Tm 13 TL
+(- Personal data should be collected only for a clear operational purpose.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 127.00 Tm 13 TL
+(- Only relevant data should be stored, in line with the principle of data minimisation.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 106.00 Tm 13 TL
+(- Access to personal records should be restricted to authorised users.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 85.00 Tm 13 TL
+(- Data should be kept accurate and updated where necessary.) Tj
+ET
+
+endstream
+endobj
+4 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> /Contents 3 0 R >>
+endobj
+5 0 obj
+<< /Length 3368 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 533.00 842.00 62.00 re
+f
+Q
+BT /F2 18 Tf 1.000 1.000 1.000 rg 1 0 0 1 28.00 557.00 Tm 20 TL
+(Safety, Ethical, Legal, and Sustainability Discussion) Tj
+ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 28.00 541.00 Tm 10 TL
+(Paragon Apartment Management System) Tj
+ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 758.00 541.00 Tm 10 TL
+(Page 3) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 485.00 Tm 13 TL
+(- Appropriate technical and organisational measures should exist to reduce the risk of) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 50.00 472.00 Tm 13 TL
+(unauthorised disclosure or misuse.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 451.00 Tm 13 TL
+(The project also touches on legal expectations around payment information. Although the current) Tj
+T*
+(implementation uses simulated card payments for academic purposes, a production system handling real) Tj
+T*
+(payment card data would need to comply with significantly stricter legal and industry requirements,) Tj
+T*
+(including secure payment processing standards and external service integration.) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.60 w
+28.00 384.00 786.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 391.00 Tm 13 TL
+(5. Sustainability Considerations) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 357.00 Tm 13 TL
+(Sustainability in software includes technical sustainability, maintainability, and the efficient use of) Tj
+T*
+(resources over time. In this project, sustainability is reflected more in the structure and longevity of) Tj
+T*
+(the system than in raw environmental impact alone.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 310.00 Tm 13 TL
+(- The modular codebase supports long-term maintainability because the interface, services,) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 50.00 297.00 Tm 13 TL
+(validation, business rules, and data access logic are separated.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 276.00 Tm 13 TL
+(- Persistent relational storage reduces duplication and supports more consistent long-term data) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 50.00 263.00 Tm 13 TL
+(management.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 242.00 Tm 13 TL
+(- A reusable seed dataset improves testing, demonstration, and future development without repeated) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 50.00 229.00 Tm 13 TL
+(manual setup.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 38.00 208.00 Tm 13 TL
+(- A desktop solution has lower deployment complexity for coursework, though a future web version) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 50.00 195.00 Tm 13 TL
+(could improve scalability and access efficiency.) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 174.00 Tm 13 TL
+(From an environmental perspective, the application is relatively lightweight and runs on standard) Tj
+T*
+(hardware without unusual computational demand. However, the more important sustainability contribution) Tj
+T*
+(of the current solution is that it has been designed in a way that can be extended rather than) Tj
+T*
+(discarded, which supports software longevity.) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.60 w
+28.00 107.00 786.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 114.00 Tm 13 TL
+(6. Summary Discussion Table) Tj
+ET
+
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 4098 >>
+stream
+q
+0.070 0.160 0.290 rg
+0.00 533.00 842.00 62.00 re
+f
+Q
+BT /F2 18 Tf 1.000 1.000 1.000 rg 1 0 0 1 28.00 557.00 Tm 20 TL
+(Safety, Ethical, Legal, and Sustainability Discussion) Tj
+ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 28.00 541.00 Tm 10 TL
+(Paragon Apartment Management System) Tj
+ET
+BT /F1 9 Tf 0.850 0.900 0.960 rg 1 0 0 1 758.00 541.00 Tm 10 TL
+(Page 4) Tj
+ET
+q
+0.850 0.900 0.960 rg
+0.720 0.780 0.840 RG
+0.60 w
+28.00 461.00 786.00 24.00 re
+B
+Q
+q 0.720 0.780 0.840 RG 0.60 w 180.00 461.00 m 180.00 485.00 l S Q
+q 0.720 0.780 0.840 RG 0.60 w 470.00 461.00 m 470.00 485.00 l S Q
+BT /F2 8.4 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 469.00 Tm 13 TL
+(Area) Tj
+ET
+BT /F2 8.4 Tf 0.080 0.100 0.140 rg 1 0 0 1 184.00 469.00 Tm 13 TL
+(Key Discussion) Tj
+ET
+BT /F2 8.4 Tf 0.080 0.100 0.140 rg 1 0 0 1 474.00 469.00 Tm 13 TL
+(Project Response) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.60 w
+28.00 423.00 786.00 38.00 re
+B
+Q
+q 0.720 0.780 0.840 RG 0.60 w 180.00 423.00 m 180.00 461.00 l S Q
+q 0.720 0.780 0.840 RG 0.60 w 470.00 423.00 m 470.00 461.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 449.00 Tm 10 TL
+(Safety) Tj
+ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 184.00 449.00 Tm 10 TL
+(Avoiding harmful operational errors,) Tj
+T*
+(misuse, and poor data handling) Tj
+ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 474.00 449.00 Tm 10 TL
+(Validation, clear workflows, visible) Tj
+T*
+(status data, and permission controls) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.60 w
+28.00 385.00 786.00 38.00 re
+B
+Q
+q 0.720 0.780 0.840 RG 0.60 w 180.00 385.00 m 180.00 423.00 l S Q
+q 0.720 0.780 0.840 RG 0.60 w 470.00 385.00 m 470.00 423.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 411.00 Tm 10 TL
+(Ethical) Tj
+ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 184.00 411.00 Tm 10 TL
+(Protecting privacy, fairness, trust, and) Tj
+T*
+(responsible access to information) Tj
+ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 474.00 411.00 Tm 10 TL
+(Tenant separation, RBAC, controlled) Tj
+T*
+(visibility, and careful use of personal) Tj
+T*
+(data) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.60 w
+28.00 347.00 786.00 38.00 re
+B
+Q
+q 0.720 0.780 0.840 RG 0.60 w 180.00 347.00 m 180.00 385.00 l S Q
+q 0.720 0.780 0.840 RG 0.60 w 470.00 347.00 m 470.00 385.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 373.00 Tm 10 TL
+(Legal) Tj
+ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 184.00 373.00 Tm 10 TL
+(Compliance implications for personal and) Tj
+T*
+(payment-related information) Tj
+ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 474.00 373.00 Tm 10 TL
+(Academic prototype with recognition of) Tj
+T*
+(GDPR-style principles and restricted) Tj
+T*
+(access design) Tj
+ET
+q
+1.000 1.000 1.000 rg
+0.720 0.780 0.840 RG
+0.60 w
+28.00 309.00 786.00 38.00 re
+B
+Q
+q 0.720 0.780 0.840 RG 0.60 w 180.00 309.00 m 180.00 347.00 l S Q
+q 0.720 0.780 0.840 RG 0.60 w 470.00 309.00 m 470.00 347.00 l S Q
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 32.00 335.00 Tm 10 TL
+(Sustainability) Tj
+ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 184.00 335.00 Tm 10 TL
+(Long-term maintainability and efficient) Tj
+T*
+(continuation of the system) Tj
+ET
+BT /F1 8.0 Tf 0.080 0.100 0.140 rg 1 0 0 1 474.00 335.00 Tm 10 TL
+(Modular architecture, reusable data,) Tj
+T*
+(structured persistence, and extendable) Tj
+T*
+(design) Tj
+ET
+q
+0.890 0.930 0.980 rg
+0.720 0.780 0.840 RG
+0.60 w
+28.00 290.00 786.00 22.00 re
+B
+Q
+BT /F2 11.5 Tf 0.080 0.100 0.140 rg 1 0 0 1 36.00 297.00 Tm 13 TL
+(7. Conclusion) Tj
+ET
+BT /F1 10 Tf 0.080 0.100 0.140 rg 1 0 0 1 28.00 263.00 Tm 13 TL
+(Overall, the Paragon Apartment Management System demonstrates an appropriate awareness of safety,) Tj
+T*
+(ethical, legal, and sustainability concerns for an academic software project. While the system is not a) Tj
+T*
+(production-ready commercial platform, its design reflects responsible handling of user roles,) Tj
+T*
+(operational processes, and personal data. These considerations strengthen the credibility of the final) Tj
+T*
+(solution and provide an important foundation for any future development beyond the coursework context.) Tj
+ET
+
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 9 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 11 0 R /F2 12 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Type /Pages /Kids [2 0 R 4 0 R 6 0 R 8 0 R] /Count 4 >>
+endobj
+10 0 obj
+<< /Type /Catalog /Pages 9 0 R >>
+endobj
+11 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+12 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000003484 00000 n 
+0000003622 00000 n 
+0000007070 00000 n 
+0000007208 00000 n 
+0000010628 00000 n 
+0000010766 00000 n 
+0000014916 00000 n 
+0000015054 00000 n 
+0000015129 00000 n 
+0000015179 00000 n 
+0000015250 00000 n 
+trailer
+<< /Size 13 /Root 10 0 R >>
+startxref
+15326
+%%EOF
