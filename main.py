@@ -23,7 +23,9 @@ def main() -> None:
         messagebox.showerror(
             "Startup error",
             f"Failed to initialise application.\n\n{exc}\n\n"
-            "Ensure MySQL is running and mysql-connector-python is installed.",
+            "Ensure MySQL is running, mysql-connector-python is installed, "
+            "and your database credentials are set in environment variables "
+            "or in PAMS_Application/.env.",
         )
         root.destroy()
         return

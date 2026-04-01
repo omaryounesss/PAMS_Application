@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import os
+import sys
 from pathlib import Path
 
 try:
@@ -15,6 +16,13 @@ except ModuleNotFoundError as exc:  # pragma: no cover
 ROOT = Path(__file__).resolve().parents[1]
 SCHEMA_PATH = ROOT / "sql" / "schema.sql"
 SEED_PATH = ROOT / "sql" / "seed.sql"
+
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
+
+from app.config import load_local_env
+
+load_local_env()
 
 DB_HOST = os.getenv("PAMS_DB_HOST", "127.0.0.1")
 DB_PORT = int(os.getenv("PAMS_DB_PORT", "3306"))

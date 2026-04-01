@@ -24,6 +24,16 @@ This guide is for running the application on another machine. Do not assume that
 
 5) Set your own MySQL environment variables
    The app no longer assumes a shared password. Each user must set their own database credentials.
+   Do NOT edit `scripts/bootstrap_db.py` or `app/config.py` to change the password.
+   Instead, create a local `.env` file in the `PAMS_Application` folder by copying `.env.example`
+   and replacing `YOUR_MYSQL_PASSWORD` with the real password for that machine.
+
+   Example `.env`:
+   PAMS_DB_HOST=127.0.0.1
+   PAMS_DB_PORT=3306
+   PAMS_DB_USER=root
+   PAMS_DB_PASSWORD=YOUR_MYSQL_PASSWORD
+   PAMS_DB_NAME=pams
 
    Example for macOS / Linux:
    export PAMS_DB_HOST=127.0.0.1
